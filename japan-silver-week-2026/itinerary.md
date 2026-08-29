@@ -41,11 +41,11 @@ Detailed activity, food, budget, and booking notes follow below.
 
 ## Recommended accommodation strategy
 
-Use one hostel or guesthouse base for all five nights near Karuizawa Station. Prioritize six bunk beds or private hostel rooms; use a guesthouse private-room setup when hostel availability is poor. This avoids moving luggage before workdays.
+Use one hostel or guesthouse base near [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) for all five nights. Prioritize six bunk beds or private hostel rooms; use a guesthouse private-room setup when hostel availability is poor. This avoids moving luggage before workdays.
 
 Search order: use [Hostelworld](https://www.hostelworld.com/) to compare Karuizawa dorms and private hostel rooms, then check the property website or contact the property directly for a lower rate. Compare the final total, cancellation terms, Wi-Fi, location, luggage storage, and male/female dorm arrangements before booking.
 
-Budget shortlist: [Guesthouse Chaconne Karuizawa](https://www.chaconnekaruizawa.com/english-top-page/vacancy-reservation/). It offers private rooms, high-speed Wi-Fi, and is about 15 minutes on foot from Karuizawa Station. Contact directly for six-person availability; the site notes that direct contact may find rooms not shown online. Also search Karuizawa guesthouses for male/female dormitory beds before accepting private rooms.
+Budget shortlist: [Guesthouse Chaconne Karuizawa](https://www.chaconnekaruizawa.com/english-top-page/vacancy-reservation/) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Guesthouse%20Chaconne%20Karuizawa)). It offers private rooms, high-speed Wi-Fi, and is about 15 minutes on foot from Karuizawa Station. Contact directly for six-person availability; the site notes that direct contact may find rooms not shown online. Also search Karuizawa guesthouses for male/female dormitory beds before accepting private rooms.
 
 Booking requirements:
 
@@ -77,19 +77,19 @@ Japanese food is not automatically halal: cooking sake and mirin may appear in s
 
 **08:00–10:00 — Tokyo to Karuizawa**
 
-- Take Hokuriku Shinkansen from Tokyo.
+- Take the Hokuriku Shinkansen from [Tokyo Station](https://www.google.com/maps/search/?api=1&query=Tokyo%20Station) to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station).
 - Reserve seats early because this is a Silver Week public holiday.
 - Leave luggage at the hostel/guesthouse if rooms are not ready.
 
 **12:00–16:00 — Activity split**
 
-- Ismail + Azis + Bayu: 8–12 km marked forest/highland trail run.
+- Ismail + Azis + Bayu: 8–12 km marked [Karuizawa forest/highland trail route](https://www.google.com/maps/search/?api=1&query=Karuizawa%20forest%20trail) run.
 - Two stronger women: optional short hike, cycling, or café route.
-- Less-active woman: Kumoba Pond short walk, café, museum, or outlet shopping.
+- Less-active woman: [Kumoba Pond](https://www.google.com/maps/search/?api=1&query=Kumoba%20Pond%2C%20Karuizawa) short walk, café, museum, or [Karuizawa Prince Shopping Plaza](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Shopping%20Plaza).
 
 Use only marked local trails and finish before dusk. Do not plan a summit attempt. If rain is heavy, replace the trail run with a 5–7 km road run or indoor activity.
 
-**16:30 onward — Kyu-Karuizawa Ginza**
+**16:30 onward — [Kyu-Karuizawa Ginza](https://www.google.com/maps/search/?api=1&query=Kyu-Karuizawa%20Ginza)**
 
 Classic tourist stop: old shopping street, bakeries, cafés, and dinner. Keep this as the main tourist-heavy stop of the day.
 
@@ -102,7 +102,7 @@ Classic tourist stop: old shopping street, bakeries, cafés, and dinner. Keep th
 #### Ismail, Azis, Bayu: one-night camping
 
 - Carry tent, sleeping system, rain protection, food, and headlamps.
-- Use the public bus to [Rising Field Karuizawa](https://www.rising-field.com/rfk-camp?lang=en). The official access page says the Kusatsu-bound bus from Karuizawa Station takes about 15–20 minutes and stops at Rising Field. [Bus access details](https://www.rising-field.com/rfk-access)
+- Use the public bus to [Rising Field Karuizawa](https://www.rising-field.com/rfk-camp?lang=en) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Rising%20Field%20Karuizawa)). The official access page says the Kusatsu-bound bus from Karuizawa Station takes about 15–20 minutes and stops at Rising Field. [Bus access details](https://www.rising-field.com/rfk-access)
 - Use the group's [Google Maps transit route](https://www.google.com/maps/dir/?api=1&origin=35.8161046%2C139.7073323&destination=36.3855342%2C138.6178067&travelmode=transit) as the starting route reference; confirm the final stop and timetable.
 - Prefer a normal tent site; choose a covered or cabin-style site if forecast is poor.
 - Bring sleeping gear suitable for cold, damp late-September nights.
@@ -111,9 +111,9 @@ Rising Field offers multiple camping styles, including self-pitched sites and co
 
 #### Women: quiet local itinerary
 
-- Visit **Oiwake-juku**, an Edo-period post town at the junction of the Nakasendo and Hokkoku-kaido roads.
-- Visit **Oiwajuku Folk Museum**, open 09:00–17:00 and generally open through October.
-- Walk around Sengen Shrine and Oiwake Park.
+- Visit **[Oiwake-juku](https://www.google.com/maps/search/?api=1&query=Oiwake-juku%2C%20Karuizawa)**, an Edo-period post town at the junction of the Nakasendo and Hokkoku-kaido roads.
+- Visit **[Oiwajuku Folk Museum](https://www.google.com/maps/search/?api=1&query=Oiwajuku%20Folk%20Museum)**, open 09:00–17:00 and generally open through October.
+- Walk around [Sengen Shrine](https://www.google.com/maps/search/?api=1&query=Sengen%20Shrine%2C%20Karuizawa) and [Oiwake Park](https://www.google.com/maps/search/?api=1&query=Oiwake%20Park%2C%20Karuizawa).
 - Finish at a small café or pre-checked Muslim-friendly dinner spot.
 
 Oiwake is a better fit than another major tourist district: historic, calm, and manageable for the less-active participant. [Oiwake official details](https://karuizawa-kankokyokai.jp/en/spot/32000/)
@@ -126,14 +126,14 @@ Oiwake is a better fit than another major tourist district: historic, calm, and 
 
 **09:30 — Karuizawa to Komoro**
 
-- Take the Shinano Railway, approximately 25–30 minutes.
+- Take the Shinano Railway from [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) to [Komoro Station](https://www.google.com/maps/search/?api=1&query=Komoro%20Station), approximately 25–30 minutes.
 
 **10:15–16:30 — Local Nagano program**
 
-1. **Kaikoen / Komoro Castle Ruins** — stone walls and a compact historical park.
-2. **Komoro-juku** — preserved post-town streets and local shops.
-3. Lunch: **onikake soba**, a traditional local soba dish.
-4. Optional: **Kumeya Tea Chakabuki Game**, a traditional tea-identification experience. Reserve in advance if available.
+1. **[Kaikoen / Komoro Castle Ruins](https://www.google.com/maps/search/?api=1&query=Kaikoen%2C%20Komoro)** — stone walls and a compact historical park.
+2. **[Komoro-juku](https://www.google.com/maps/search/?api=1&query=Komoro-juku)** — preserved post-town streets and local shops.
+3. Lunch: **[onikake soba in Komoro](https://www.google.com/maps/search/?api=1&query=onikake%20soba%2C%20Komoro)**, a traditional local soba dish.
+4. Optional: **[Kumeya Tea Chakabuki Game](https://www.google.com/maps/search/?api=1&query=Kumeya%20Tea%20Chakabuki%20Game)**, a traditional tea-identification experience. Reserve in advance if available.
 
 Do not add Nunobiki Kannon and the tea experience on the same day. Default choice: Kaikoen + Komoro-juku + soba. The tea experience is the preferred unusual, alcohol-free add-on. [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
 
@@ -146,14 +146,14 @@ Do not add Nunobiki Kannon and the tea experience on the same day. Default choic
 **09:00–17:00 — Work**
 
 - Main workspace: hostel private room or quiet café.
-- Use [Karuizawa Prince The Workation Core](https://www.karuizawa-pwc.jp/en/) for video calls or focused work.
+- Use [Karuizawa Prince The Workation Core](https://www.karuizawa-pwc.jp/en/) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20The%20Workation%20Core)) for video calls or focused work.
 - It is four minutes from Karuizawa Station and has private booths, meeting rooms, free Wi-Fi, lockers, and carry-case storage.
 - April–October hours: 09:00–18:00.
 - Use it for calls, not necessarily a full day for everyone: private rooms cost ¥330 per 15 minutes.
 
 **After work**
 
-- Easy visit to Harunire Terrace and the Hoshino area.
+- Easy visit to [Harunire Terrace](https://www.google.com/maps/search/?api=1&query=Harunire%20Terrace%2C%20Karuizawa) and the [Hoshino area](https://www.google.com/maps/search/?api=1&query=Hoshino%20area%2C%20Karuizawa).
 - Less-active participant can stay at the terrace/café while others take a short nature walk.
 
 ### Friday 25 September: WFA + local food
@@ -168,10 +168,10 @@ Keep the group in Karuizawa. No intercity travel.
 
 **After work or Saturday morning — Hotchi Ichiba**
 
-- Buy Karuizawa vegetables, fruit, cheese, tofu, snacks, and picnic items. Check labels for pork, lard, mirin, cooking sake, and alcohol.
+- Buy Karuizawa vegetables, fruit, cheese, tofu, snacks, and picnic items at [Hotchi Ichiba](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa). Check labels for pork, lard, mirin, cooking sake, and alcohol.
 - The market is open approximately 09:00–17:00; food-stall hours can differ.
 - Use local ingredients for one simple dinner or picnic.
-- Cheap fallback: use a Saizeriya-style family restaurant meal, especially around Saku-daira. Saizeriya is not automatically halal; check every dish for pork, lard, mirin, cooking sake, alcohol-based sauce, and shared cooking equipment. [Example Saku-daira location](https://tabelog.com/en/nagano/A2003/A200302/20016264/)
+- Cheap fallback: use a [Saizeriya Saku-daira](https://www.google.com/maps/search/?api=1&query=Saizeriya%20Saku-daira) family restaurant meal. Saizeriya is not automatically halal; check every dish for pork, lard, mirin, cooking sake, alcohol-based sauce, and shared cooking equipment. [Example listing](https://tabelog.com/en/nagano/A2003/A200302/20016264/)
 
 [Hotchi Ichiba official site](https://karuizawa.hotchi-ichiba.com/)
 
@@ -181,17 +181,17 @@ Keep the group in Karuizawa. No intercity travel.
 
 *Image: [Shiraito Falls photo source](https://visitkaruizawa.com/en/)*
 
-**Early morning — Shiraito Falls**
+**Early morning — [Shiraito Falls](https://www.google.com/maps/search/?api=1&query=Shiraito%20Falls%2C%20Karuizawa)**
 
 - Go early to reduce crowd exposure.
 - Short, accessible tourist nature stop.
-- Fitter members may add Sengataki Falls or Wild Bird Forest.
+- Fitter members may add [Sengataki Falls](https://www.google.com/maps/search/?api=1&query=Sengataki%20Falls%2C%20Karuizawa) or [Karuizawa Wild Bird Forest](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Wild%20Bird%20Forest).
 - Less-active participant stays with the shorter route and café/rest option.
 
 **Late morning — local market or lunch**
 
-- Visit Hotchi Ichiba if transport timing works.
-- Otherwise return directly to Karuizawa Station and have lunch there.
+- Visit [Hotchi Ichiba](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa) if transport timing works.
+- Otherwise return directly to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) and have lunch there.
 
 **Afternoon — Karuizawa to Tokyo**
 
@@ -208,18 +208,18 @@ Keep the group in Karuizawa. No intercity travel.
 
 ### Main tourist stops
 
-- Kyu-Karuizawa Ginza.
-- Shiraito Falls.
-- Karuizawa Station / outlet area.
+- [Kyu-Karuizawa Ginza](https://www.google.com/maps/search/?api=1&query=Kyu-Karuizawa%20Ginza).
+- [Shiraito Falls](https://www.google.com/maps/search/?api=1&query=Shiraito%20Falls%2C%20Karuizawa).
+- [Karuizawa Station / outlet area](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Shopping%20Plaza).
 
 ### Local or less-obvious stops
 
-- Oiwake-juku and Oiwajuku Folk Museum.
-- Komoro Castle Ruins and Komoro-juku.
-- Onikake soba.
-- Hotchi Ichiba local market.
-- Hoshino area, Harunire Terrace, Sengataki, and Wild Bird Forest.
-- Kumeya Tea Chakabuki Game, if reserved.
+- [Oiwake-juku](https://www.google.com/maps/search/?api=1&query=Oiwake-juku%2C%20Karuizawa) and [Oiwajuku Folk Museum](https://www.google.com/maps/search/?api=1&query=Oiwajuku%20Folk%20Museum).
+- [Komoro Castle Ruins](https://www.google.com/maps/search/?api=1&query=Kaikoen%2C%20Komoro) and [Komoro-juku](https://www.google.com/maps/search/?api=1&query=Komoro-juku).
+- [Onikake soba in Komoro](https://www.google.com/maps/search/?api=1&query=onikake%20soba%2C%20Komoro).
+- [Hotchi Ichiba local market](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa).
+- [Hoshino area](https://www.google.com/maps/search/?api=1&query=Hoshino%20area%2C%20Karuizawa), [Harunire Terrace](https://www.google.com/maps/search/?api=1&query=Harunire%20Terrace%2C%20Karuizawa), [Sengataki](https://www.google.com/maps/search/?api=1&query=Sengataki%20Falls%2C%20Karuizawa), and [Wild Bird Forest](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Wild%20Bird%20Forest).
+- [Kumeya Tea Chakabuki Game](https://www.google.com/maps/search/?api=1&query=Kumeya%20Tea%20Chakabuki%20Game), if reserved.
 
 ## Detailed budget notes
 
