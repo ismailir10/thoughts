@@ -32,10 +32,10 @@ Karuizawa sits at high elevation and is substantially cooler than Tokyo. Septemb
 
 | Group | Working estimate per person | Main difference |
 |---|---:|---|
-| 3 women | ¥63,000–¥86,000 | No camping cost |
-| 3 men | ¥68,000–¥96,000 | Camping site and gear transport |
-| Target | Around ¥75,000–¥80,000 | Requires hostel/bunk beds, groceries, no tea add-on |
-| Comfortable ceiling | Around ¥90,000–¥100,000 | More private rooms, restaurant meals, cabin fallback |
+| 3 women | ¥60,000–¥85,000 | No camping cost; varies by long-distance transport |
+| 3 men | ¥64,000–¥93,000 | Camping site and gear transport |
+| Target | Around ¥75,000–¥85,000 | Mixed transport, hostel/bunk beds, groceries |
+| Comfortable ceiling | Around ¥95,000–¥100,000 | Shinkansen both ways, private rooms, restaurant meals, cabin fallback |
 
 Detailed activity, food, budget, and booking notes follow below.
 
@@ -221,19 +221,59 @@ Keep the group in Karuizawa. No intercity travel.
 - [Hoshino area](https://www.google.com/maps/search/?api=1&query=Hoshino%20area%2C%20Karuizawa), [Harunire Terrace](https://www.google.com/maps/search/?api=1&query=Harunire%20Terrace%2C%20Karuizawa), [Sengataki](https://www.google.com/maps/search/?api=1&query=Sengataki%20Falls%2C%20Karuizawa), and [Wild Bird Forest](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Wild%20Bird%20Forest).
 - [Kumeya Tea Chakabuki Game](https://www.google.com/maps/search/?api=1&query=Kumeya%20Tea%20Chakabuki%20Game), if reserved.
 
+## Transport price comparison
+
+Checked 29 August 2026. Prices below are adult fares and should be rechecked when booking because bus availability and some ticket prices can change by date.
+
+### Tokyo–Karuizawa long-distance options
+
+| Option | One way per person | Return per person | Return for 6 people | Approx. time | Use when |
+|---|---:|---:|---:|---:|---|
+| Reserved Hokuriku Shinkansen | ¥6,130 | ¥12,260 | ¥73,560 | About 1 hour | Fastest and most reliable for the Silver Week outbound trip |
+| Highway bus, Shibuya–Karuizawa | ¥3,300 | ¥6,600 | ¥39,600 | About 3 hours 15 minutes | Cheapest; allow for traffic and a less flexible day |
+| Mixed: Shinkansen outbound + bus return | ¥6,130 + ¥3,300 | ¥9,430 | ¥56,580 | About 1 hour + 3 hours 15 minutes | Best balance of arrival reliability and cost |
+
+The highway bus starts at Shibuya, not at each person's home. Allow approximately ¥1,000 per person for local Tokyo trains to and from Shibuya. With that allowance, the practical totals are **¥7,600 per person / ¥45,600 for six** for bus both ways, or **¥10,430 per person / ¥62,580 for six** for the mixed plan. The Shinkansen return remains **¥12,260 per person / ¥73,560 for six**, excluding local Tokyo access.
+
+For this group, the recommended transport budget is the mixed plan: take the Shinkansen to Karuizawa on Monday morning, then take the highway bus back to Shibuya on Saturday only if the timetable and traffic outlook are acceptable. If everyone values time and certainty more than saving ¥2,830 per person, use the Shinkansen both ways.
+
+### Planned local transport
+
+| Segment | Fare calculation | Per-person cost | Group cost / note |
+|---|---:|---:|---|
+| Monday: Karuizawa Station ↔ Kyu-Karuizawa | ¥160 × 2 by bus | ¥320 | ¥1,920 for six; walking can reduce this to ¥0 |
+| Tuesday men: Karuizawa Station ↔ Rising Field | ¥460 × 2 by bus | ¥920 | ¥2,760 for Ismail, Azis, and Bayu |
+| Tuesday women: Karuizawa ↔ Shinano-Oiwake | ¥242 × 2 by IC, or ¥250 × 2 cash | ¥484–¥500 | Per woman; onward walk/local transfer to Oiwake-juku may be needed |
+| Wednesday: Karuizawa ↔ Komoro | ¥495 × 2 by IC, or ¥500 × 2 cash | ¥990–¥1,000 | ¥5,940–¥6,000 for six |
+| Thursday: hostel/station-area WFA | Walk | ¥0 | Workation Core is near the station; workspace fees are separate |
+| Friday: Hotchi Ichiba | Walk by default | ¥0 baseline | Keep ¥500–¥1,000 contingency if a local bus is needed |
+| Saturday: Karuizawa Station ↔ Shiraito Falls | ¥720 × 2 by bus | ¥1,440 | ¥8,640 for six |
+
+Core local transport is approximately **¥3,200–¥3,700 per woman** and **¥3,700–¥4,200 per man**, before optional cycling, extra buses, or taxis. The men's total includes the Rising Field bus; the women's total uses the Shinano-Oiwake train option.
+
 ## Detailed budget notes
 
 ### Working target per person
 
 | Category | Women | Men | Notes |
 |---|---:|---:|---|
-| Tokyo–Karuizawa Shinkansen return | ¥11,000–¥13,000 | ¥11,000–¥13,000 | Reserve early |
-| Local trains and buses | ¥3,000–¥5,000 | ¥3,000–¥5,000 | Public transport first; no routine taxi |
+| Long-distance transport | ¥7,600 / ¥10,430 / ¥12,260 | ¥7,600 / ¥10,430 / ¥12,260 | Bus both ways / mixed / Shinkansen both ways; bus options include ¥1,000 Tokyo–Shibuya allowance |
+| Local trains and buses | ¥3,200–¥3,700 | ¥3,700–¥4,200 | Actual planned fares above; public transport first |
 | Accommodation, 5 nights | ¥35,000–¥45,000 | ¥35,000–¥45,000 | Requires guesthouse/simple room |
 | Camping night | — | ¥4,000–¥8,000 | Site, firewood, or fallback cabin |
 | Food and groceries | ¥12,000–¥18,000 | ¥12,000–¥18,000 | Groceries + Saizeriya-style budget meals |
 | Basic activities | ¥2,000–¥5,000 | ¥2,000–¥5,000 | Includes optional tea experience |
-| **Estimated total** | **¥63,000–¥86,000** | **¥68,000–¥96,000** | Before shopping |
+| **Estimated total** | **¥60,000–¥85,000** | **¥64,000–¥93,000** | Before shopping; transport choice changes the total |
+
+### Scenario totals for the full group
+
+| Long-distance choice | Women, each | Men, each | Approx. total for 6 |
+|---|---:|---:|---:|
+| Bus both ways | ¥60,000–¥80,000 | ¥63,000–¥88,000 | ¥369,000–¥504,000 |
+| Mixed: Shinkansen out + bus back | ¥63,000–¥83,000 | ¥66,000–¥91,000 | ¥387,000–¥522,000 |
+| Shinkansen both ways | ¥65,000–¥85,000 | ¥68,000–¥94,000 | ¥399,000–¥537,000 |
+
+These totals exclude international flights, shopping, and optional full-day private work booths. Add a ¥5,000–¥10,000 personal emergency buffer, especially because 21–23 September is Silver Week.
 
 ### How to stay near ¥80,000
 
@@ -241,7 +281,7 @@ Keep the group in Karuizawa. No intercity travel.
 - Target accommodation at ¥7,000–¥8,500 per person per night.
 - Buy breakfast and one dinner from supermarket/Hotchi Ichiba.
 - Use Saizeriya-style family restaurants for a cheap meal after checking ingredients and cooking practices.
-- Use Shinkansen for one direction and highway bus only if return timing is reasonable.
+- Use the mixed transport plan to target roughly ¥75,000–¥85,000 per person: Shinkansen outbound, highway bus return, and ¥1,000 local-Tokyo allowance for the bus terminal.
 - Use Workation Core only for meetings, not full-day seating.
 - Skip the tea experience if budget is tight.
 - Keep ¥5,000–¥10,000 emergency buffer for Silver Week price increases.
@@ -281,6 +321,10 @@ Keep the group in Karuizawa. No intercity travel.
 - [Go Nagano: Karuizawa guide](https://www.go-nagano.net/en/trip-idea/id18082)
 - [Rising Field Karuizawa](https://www.rising-field.com/rfk-camp?lang=en)
 - [Rising Field public-bus access](https://www.rising-field.com/rfk-access)
+- [Karuizawa local bus timetable and fares, valid through 31 October 2026](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604)
+- [Highwaybus.com Shibuya–Karuizawa fare](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
+- [Current Tokyo–Karuizawa route fares](https://ekitan.com/en/planner/shinkansen/section/tokyo/karuizawa)
+- [Shinano Railway 2026 fare page](https://www.shinanorailway.co.jp/rail-info/fare/)
 - [Karuizawa Workation Core](https://www.karuizawa-pwc.jp/en/)
 - [Oiwajuku Folk Museum](https://karuizawa-kankokyokai.jp/en/spot/32000/)
 - [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
