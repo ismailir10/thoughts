@@ -16,6 +16,28 @@ Detailed group plan for 6 Indonesian travelers: 3 men and 3 women.
 
 Karuizawa sits at high elevation and is substantially cooler than Tokyo. September normals are approximately 20°C daytime and 11°C overnight, so camping needs warm layers and a proper sleeping bag. [JMA climate data](https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_d.php?block_no=47622&day=&month=09&prec_no=48&view=p1s&year=)
 
+## Quick view
+
+| Date | Main plan | Group split | Overnight |
+|---|---|---|---|
+| Mon 21 Sep | Tokyo → Karuizawa; trail run; Kyu-Karuizawa | You + Bayu run; others choose easy options | Karuizawa hostel/guesthouse |
+| Tue 22 Sep | Camping + Oiwake-juku | 3 men camp; 3 women local culture day | Men camp; women Karuizawa |
+| Wed 23 Sep | Komoro local day trip | All together | Karuizawa hostel/guesthouse |
+| Thu 24 Sep | WFA | All work; private booths for calls | Karuizawa hostel/guesthouse |
+| Fri 25 Sep | WFA + local food | All work; market/dinner after work | Karuizawa hostel/guesthouse |
+| Sat 26 Sep | Shiraito Falls; return to Tokyo | Easy route available | Tokyo |
+
+### Budget at a glance
+
+| Group | Working estimate per person | Main difference |
+|---|---:|---|
+| 3 women | ¥66,000–¥88,000 | No camping cost |
+| 3 men | ¥71,000–¥98,000 | Camping site, gear transport, taxi |
+| Target | Around ¥75,000–¥80,000 | Requires hostel/bunk beds, groceries, no tea add-on |
+| Comfortable ceiling | Around ¥90,000–¥100,000 | More private rooms, restaurant meals, cabin fallback |
+
+Detailed activity, food, budget, and booking notes follow below.
+
 ## Recommended accommodation strategy
 
 Use one hostel or guesthouse base for all five nights near Karuizawa Station. Prioritize six bunk beds or private hostel rooms; use a guesthouse private-room setup when hostel availability is poor. This avoids moving luggage before workdays.
@@ -42,7 +64,7 @@ Japanese food is not automatically halal: cooking sake and mirin may appear in s
 - Use this Japanese request: `ムスリムです。豚肉、ラード、酒、みりんを使わない料理をお願いします。`
 - Bring prayer mats and confirm a clean private prayer space at the hostel/guesthouse. Plan prayer breaks before long transfers and outdoor activities.
 
-## Day-by-day itinerary
+## Detailed itinerary notes
 
 ### Monday 21 September: arrival, trail run, classic Karuizawa
 
@@ -165,7 +187,7 @@ Keep the group in Karuizawa. No intercity travel.
 - Hoshino area, Harunire Terrace, Sengataki, and Wild Bird Forest.
 - Kumeya Tea Chakabuki Game, if reserved.
 
-## Budget plan
+## Detailed budget notes
 
 ### Working target per person
 
