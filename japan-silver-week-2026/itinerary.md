@@ -95,9 +95,9 @@ Classic tourist stop: old shopping street, bakeries, cafés, and dinner. Keep th
 
 ### Tuesday 22 September: camping split and Oiwake-juku
 
-![Rising Field Karuizawa camping](https://d2goguvysdoarq.cloudfront.net/system/attractions/photos/7289/normal.jpg?1578205905=&h=640&t=r&w=640)
+![Rising Field Karuizawa camping](https://static.wixstatic.com/media/019307_9cd90b343dc44105b0b10ddb38caaec6~mv2.png/v1/fill/w_980%2Ch_663%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2835%29.png)
 
-*Image: [Rising Field camping photo source](https://iko-yo.net/facilities/21110/attractions/7289)*
+*Image: [Rising Field official camping page](https://www.rising-field.com/rfk-camp)*
 
 #### Ismail, Azis, Bayu: one-night camping
 
