@@ -12,21 +12,35 @@ Detailed group plan for 6 Indonesian travelers: 3 men and 3 women.
 - Three men bring their own tent and camp for one night.
 - One woman needs low-impact alternatives. Every active activity has an easier option.
 - Thursday and Friday are work-from-anywhere days.
+- All travelers are Muslim: no alcohol venues, alcohol-based meals, pork, or lard.
 
 Karuizawa sits at high elevation and is substantially cooler than Tokyo. September normals are approximately 20°C daytime and 11°C overnight, so camping needs warm layers and a proper sleeping bag. [JMA climate data](https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_d.php?block_no=47622&day=&month=09&prec_no=48&view=p1s&year=)
 
 ## Recommended accommodation strategy
 
-Use one base for all five nights near Karuizawa Station. This avoids moving luggage before workdays.
+Use one hostel or guesthouse base for all five nights near Karuizawa Station. Prioritize six bunk beds or private hostel rooms; use a guesthouse private-room setup when hostel availability is poor. This avoids moving luggage before workdays.
 
-Budget shortlist: [Guesthouse Chaconne Karuizawa](https://www.chaconnekaruizawa.com/english-top-page/vacancy-reservation/). It offers private rooms, high-speed Wi-Fi, and is about 15 minutes on foot from Karuizawa Station. Contact directly for six-person availability; the site notes that direct contact may find rooms not shown online.
+Budget shortlist: [Guesthouse Chaconne Karuizawa](https://www.chaconnekaruizawa.com/english-top-page/vacancy-reservation/). It offers private rooms, high-speed Wi-Fi, and is about 15 minutes on foot from Karuizawa Station. Contact directly for six-person availability; the site notes that direct contact may find rooms not shown online. Also search Karuizawa guesthouses for male/female dormitory beds before accepting private rooms.
 
 Booking requirements:
 
-- Three private rooms or equivalent sleeping arrangement for six.
+- Six hostel bunk beds, or three private rooms/equivalent sleeping arrangement for six.
 - Desk/table and reliable Wi-Fi in at least one room.
 - Luggage storage while the men camp.
 - Flexible cancellation where possible.
+- No alcohol-focused property or alcohol included in meals.
+
+## Muslim-friendly food and prayer rules
+
+Japanese food is not automatically halal: cooking sake and mirin may appear in sauces, soup stock, miso, marinades, and sweets. JNTO also warns that animal fats and gelatin can be present in otherwise simple foods. [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
+
+- No alcohol drinking or alcohol-focused venues.
+- No pork, bacon, ham, lard, non-halal meat, mirin, cooking sake, or alcohol-based sauces.
+- Prefer seafood, vegetables, tofu, fruit, and clearly verified vegetarian dishes.
+- Ask every restaurant about dashi, sauce, marinade, and shared cooking equipment.
+- Carry a small halal pantry from Tokyo for breakfast, camping, and emergency meals.
+- Use this Japanese request: `ムスリムです。豚肉、ラード、酒、みりんを使わない料理をお願いします。`
+- Bring prayer mats and confirm a clean private prayer space at the hostel/guesthouse. Plan prayer breaks before long transfers and outdoor activities.
 
 ## Day-by-day itinerary
 
@@ -36,7 +50,7 @@ Booking requirements:
 
 - Take Hokuriku Shinkansen from Tokyo.
 - Reserve seats early because this is a Silver Week public holiday.
-- Leave luggage at the accommodation if rooms are not ready.
+- Leave luggage at the hostel/guesthouse if rooms are not ready.
 
 **12:00–16:00 — Activity split**
 
@@ -67,7 +81,7 @@ Rising Field offers multiple camping styles, including self-pitched sites and co
 - Visit **Oiwake-juku**, an Edo-period post town at the junction of the Nakasendo and Hokkoku-kaido roads.
 - Visit **Oiwajuku Folk Museum**, open 09:00–17:00 and generally open through October.
 - Walk around Sengen Shrine and Oiwake Park.
-- Finish at a small café or local dinner spot.
+- Finish at a small café or pre-checked Muslim-friendly dinner spot.
 
 Oiwake is a better fit than another major tourist district: historic, calm, and manageable for the less-active participant. [Oiwake official details](https://karuizawa-kankokyokai.jp/en/spot/32000/)
 
@@ -82,15 +96,15 @@ Oiwake is a better fit than another major tourist district: historic, calm, and 
 1. **Kaikoen / Komoro Castle Ruins** — stone walls and a compact historical park.
 2. **Komoro-juku** — preserved post-town streets and local shops.
 3. Lunch: **onikake soba**, a traditional local soba dish.
-4. Optional: **Komoro Distillery** for a guided visit, bar, or non-alcoholic option. It is about 10 minutes by taxi from Komoro Station; reserve in advance.
+4. Optional: **Kumeya Tea Chakabuki Game**, a traditional tea-identification experience. Reserve in advance if available.
 
-Do not add Nunobiki Kannon and the distillery on the same day. Default choice: Kaikoen + Komoro-juku + soba. Distillery is an optional add-on if the group wants a more unusual experience and accepts extra cost. [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
+Do not add Nunobiki Kannon and the tea experience on the same day. Default choice: Kaikoen + Komoro-juku + soba. The tea experience is the preferred unusual, alcohol-free add-on. [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
 
 ### Thursday 24 September: WFA day
 
 **09:00–17:00 — Work**
 
-- Main workspace: accommodation or quiet café.
+- Main workspace: hostel private room or quiet café.
 - Use [Karuizawa Prince The Workation Core](https://www.karuizawa-pwc.jp/en/) for video calls or focused work.
 - It is four minutes from Karuizawa Station and has private booths, meeting rooms, free Wi-Fi, lockers, and carry-case storage.
 - April–October hours: 09:00–18:00.
@@ -109,7 +123,7 @@ Keep the group in Karuizawa. No intercity travel.
 
 **After work or Saturday morning — Hotchi Ichiba**
 
-- Buy Karuizawa vegetables, fruit, cheese, tofu, snacks, and picnic items.
+- Buy Karuizawa vegetables, fruit, cheese, tofu, snacks, and picnic items. Check labels for pork, lard, mirin, cooking sake, and alcohol.
 - The market is open approximately 09:00–17:00; food-stall hours can differ.
 - Use local ingredients for one simple dinner or picnic.
 
@@ -149,7 +163,7 @@ Keep the group in Karuizawa. No intercity travel.
 - Onikake soba.
 - Hotchi Ichiba local market.
 - Hoshino area, Harunire Terrace, Sengataki, and Wild Bird Forest.
-- Komoro Distillery, if reserved.
+- Kumeya Tea Chakabuki Game, if reserved.
 
 ## Budget plan
 
@@ -162,22 +176,22 @@ Keep the group in Karuizawa. No intercity travel.
 | Accommodation, 5 nights | ¥35,000–¥45,000 | ¥35,000–¥45,000 | Requires guesthouse/simple room |
 | Camping night | — | ¥4,000–¥8,000 | Site, firewood, or fallback cabin |
 | Food and groceries | ¥15,000–¥20,000 | ¥15,000–¥20,000 | Breakfast/grocery strategy |
-| Basic activities | ¥2,000–¥5,000 | ¥2,000–¥5,000 | Excludes optional distillery |
+| Basic activities | ¥2,000–¥5,000 | ¥2,000–¥5,000 | Includes optional tea experience |
 | **Estimated total** | **¥66,000–¥88,000** | **¥71,000–¥98,000** | Before shopping |
 
 ### How to stay near ¥80,000
 
-- Choose guesthouse or apartment, not resort hotel.
+- Choose hostel bunk beds or a guesthouse, not a resort hotel.
 - Target accommodation at ¥7,000–¥8,500 per person per night.
 - Buy breakfast and one dinner from supermarket/Hotchi Ichiba.
 - Use Shinkansen for one direction and highway bus only if return timing is reasonable.
 - Use Workation Core only for meetings, not full-day seating.
-- Skip Komoro Distillery if budget is tight.
+- Skip the tea experience if budget is tight.
 - Keep ¥5,000–¥10,000 emergency buffer for Silver Week price increases.
 
 ### Optional upgrades
 
-- Komoro Distillery: add roughly ¥4,000–¥5,000 plus taxi per person.
+- Kumeya Tea Chakabuki Game: price and availability require direct confirmation.
 - Full-day private work booths: avoid unless required; cost rises quickly.
 - Cabin instead of tent: safer in bad weather, but higher camping cost.
 
@@ -186,19 +200,21 @@ Keep the group in Karuizawa. No intercity travel.
 - Check the forecast 48 hours before Tuesday camping and Monday trail run.
 - Heavy rain, strong wind, or warning: cancel the trail/camping plan.
 - Men move to a covered site, cabin, or hostel near the camping area.
-- If no safe fallback is available, men return to the Karuizawa hotel and do a local day hike later.
+- If no safe fallback is available, men return to the Karuizawa hostel/guesthouse and do a local day hike later.
 - Pack thermal base layer, fleece/light jacket, waterproof shell, trail shoes, headlamp, and dry socks.
 
 ## Booking checklist
 
-- [ ] Six-person accommodation near Karuizawa Station, five nights.
+- [ ] Six hostel bunk beds or private hostel/guesthouse rooms near Karuizawa Station, five nights.
 - [ ] Confirm three men's camping spaces for Tuesday 22 September.
-- [ ] Confirm whether men may leave non-camping luggage at the hotel.
+- [ ] Confirm whether men may leave non-camping luggage at the hostel/guesthouse.
 - [ ] Reserve Shinkansen seats Tokyo–Karuizawa round trip.
 - [ ] Confirm taxi access to Rising Field.
-- [ ] Reserve Komoro Distillery only if selected.
+- [ ] Confirm Kumeya Tea Chakabuki Game only if selected.
 - [ ] Check Workation Core drop-in/member rules before WFA days.
 - [ ] Check local bus timetables for Shiraito Falls and Hotchi Ichiba.
+- [ ] Pre-check Muslim-friendly restaurants and Japanese ingredient labels.
+- [ ] Bring a prayer mat and confirm a clean private prayer space at the hostel/guesthouse.
 - [ ] Recheck weather 48 hours before outdoor activities.
 
 ## Sources
@@ -210,6 +226,6 @@ Keep the group in Karuizawa. No intercity travel.
 - [Karuizawa Workation Core](https://www.karuizawa-pwc.jp/en/)
 - [Oiwajuku Folk Museum](https://karuizawa-kankokyokai.jp/en/spot/32000/)
 - [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
-- [Komoro Distillery](https://komorodistillery.com/en/visit_/)
 - [Hotchi Ichiba](https://karuizawa.hotchi-ichiba.com/)
 - [Karuizawa nature routes](https://karuizawa-kankokyokai.jp/en/about_karuizawa/908/)
+- [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
