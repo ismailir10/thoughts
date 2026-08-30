@@ -6,10 +6,10 @@
 
 Trip plan for a potential eight-person group of Indonesian friends, with a balanced 4-men / 4-women setup.
 
-> **Quick summary:** 21–23 September 2026 at Ridge Garage Lodge, using two sites near Rising Field. Travel by highway bus Tokyo ↔ Karuizawa, then local bus to the lodge area. The target group is **8 Indonesian friends (4 men and 4 women)**, including **one Chinese-Indonesian (Chindo) woman**. **Overall budget for 8:** approximately **¥240,160–¥300,160 total**, or **¥30,020–¥37,520 per person**, including the quoted lodge stay, buses, food, activities, and contingency.
+> **Quick summary:** 21–23 September 2026 at Ridge Garage Lodge, using two sites near Rising Field. Travel by highway bus Tokyo ↔ Karuizawa, then local bus to the lodge area. The target group is **8 Indonesian friends (4 men and 4 women)**. **Overall budget for 8:** approximately **¥240,160–¥300,160 total**, or **¥30,020–¥37,520 per person**, including the quoted lodge stay, buses, food, activities, and contingency.
 
 - **Dates:** Monday 21–Wednesday 23 September 2026
-- **Target group:** 8 Indonesian people — **4 men and 4 women**, including one Chinese-Indonesian (Chindo) woman
+- **Target group:** 8 Indonesian people — **4 men and 4 women**
 - **Participant roster:** 8 people under consideration; confirm attendance before booking all bus seats
 - **Route:** Tokyo → Karuizawa → Rising Field / Ridge Garage Lodge → Karuizawa → Tokyo
 - **Transport:** highway bus between Tokyo and Karuizawa; local bus between Karuizawa Station and Rising Field
@@ -48,7 +48,7 @@ The budget below treats **¥132,000 as the total charge for both sites and both 
 ### Target group
 
 - The planned roster is eight people: four men and four women.
-- All participants are Indonesian. One female participant is Chinese-Indonesian (Chindo); confirm her name with the group before publishing any more detailed personal profile.
+- All participants are Indonesian. 
 - Confirm each person’s attendance before booking the full set of highway-bus seats.
 - If the final group is smaller, keep the Ridge Garage Lodge reservation and recalculate the accommodation share rather than changing the itinerary.
 - Everyone follows the same core itinerary. Optional walks, running, or rest are individual choices within the group schedule.
