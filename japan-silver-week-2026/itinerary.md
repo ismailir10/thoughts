@@ -168,6 +168,23 @@ Everyone should confirm food requirements before grocery shopping. Japanese food
 
 Plan around clearly labelled groceries, vegetables, fruit, tofu, seafood, and halal pantry basics from Tokyo. Confirm lodge cookware, grills, and shared utensils before cooking.
 
+## Packing checklist
+
+Each person should bring:
+
+- [ ] **One flashlight or headlamp with spare batteries** — required for every person; do not rely on a phone flashlight.
+- [ ] Comfortable walking shoes with good grip; waterproof shoes are best for the waterfall and forest paths.
+- [ ] Warm layers for cool mornings and evenings: long-sleeve top, fleece or light jacket, and extra socks.
+- [ ] Rain shell or poncho, compact umbrella, and a waterproof pouch for phone and wallet.
+- [ ] Small daypack, reusable water bottle, towel, tissues, and wet wipes.
+- [ ] Phone, charger or power bank, ID, booking details, personal medication, and toiletries.
+- [ ] Personal prayer items and any dietary snacks or essentials.
+
+Shared items to assign before departure:
+
+- [ ] First-aid kit, insect repellent, sunscreen, and spare batteries.
+- [ ] Cooking and grocery supplies only after the lodge confirms what is provided.
+
 ## Final decisions and preparation
 
 1. Confirm attendance for all eight participants.
@@ -175,7 +192,7 @@ Plan around clearly labelled groceries, vegetables, fruit, tofu, seafood, and ha
 3. Confirm cooking, fire, noise, rubbish, pet, and outdoor-activity rules.
 4. Book the exact outbound highway-bus service and all confirmed return seats.
 5. Confirm the local-bus connections for the Day 2 waterfall loop and Wednesday’s 13:48 target.
-6. Prepare the shared grocery list, prayer/rest timing, warm layers, rain gear, headlamps, chargers, and first-aid kit.
+6. Assign the shared items in the packing checklist and prepare the grocery list.
 7. Check the weather shortly before departure and use the Rain column when needed.
 
 ## Sources
