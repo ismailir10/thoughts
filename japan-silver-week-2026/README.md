@@ -4,11 +4,11 @@ This project plans a short Karuizawa trip for Silver Week 2026. Use this README 
 
 ## Current deliverable
 
-Primary itinerary: [japan-silver-week-2026.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/japan-silver-week-2026.md).
+Primary itinerary: [itinerary.md](itinerary.md).
 
 Event poster asset: [karuizawa-event-poster.png](karuizawa-event-poster.png).
 
-Project instructions: [AGENTS.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/AGENTS.md).
+Project instructions: [AGENTS.md](AGENTS.md).
 
 Repository workflow: every intentional change should be reviewed, committed, and pushed to the project repository when network access and credentials are available.
 
@@ -17,11 +17,12 @@ Repository workflow: every intentional change should be reviewed, committed, and
 - Dates: Monday 21–Wednesday 23 September 2026.
 - Accommodation: Ridge Garage Lodge, two sites, both nights.
 - Reservation details supplied by the user: capacity 8 per site; pets allowed; quoted site fee ¥66,000 on each night; quoted total ¥132,000.
-- Target roster: eight people, four men and four women — Ismail, Bayu, Azis, Dhanang, Mila, Ghisa, Elis, and Vany.
+- Target roster: eight Indonesian people, four men and four women — Ismail, Bayu, Azis, Dhanang, Mila, Ghisa, Elis, and Vany; one female participant is Chinese-Indonesian (Chindo).
 - Starting areas: Ismail and Azis in Kawaguchi, Saitama; Bayu in Itabashi; Dhanang in Chiba; Mila, Ghisa, and Elis in Yokohama; Vany in Tokyo.
 - Confirm attendance before booking the full set of highway-bus seats.
 - Transport: highway bus Tokyo–Karuizawa in both directions, plus local bus to/from the Rising Field area.
 - Main activity focus: Rising Field area and Ridge Garage Lodge facilities.
+- Overall target budget: approximately ¥240,160–¥300,160 total for eight people, or ¥30,020–¥37,520 per person.
 - Shiraito Falls is optional only and is not part of the core schedule.
 - Everyone is Muslim: avoid alcohol venues and verify pork, lard, mirin, cooking sake, alcohol-based sauces, gelatin, dashi, and non-halal meat.
 

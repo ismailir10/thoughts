@@ -10,6 +10,7 @@ This folder contains the Japan Silver Week 2026 Karuizawa trip plan.
 - Accommodation: Ridge Garage Lodge, two sites, both nights.
 - Quoted accommodation amount: ¥132,000 total as supplied; verify the final reservation screen before payment.
 - Target roster: eight people, four men and four women.
+- All participants are Indonesian; one female participant is Chinese-Indonesian (Chindo).
 - Transport: highway bus between Tokyo and Karuizawa, plus local bus between Karuizawa Station and the Rising Field area.
 - Prioritize activities around Rising Field and Ridge Garage Lodge facilities.
 - Keep Muslim-friendly food requirements visible and verify ingredients rather than assuming halal certification.
