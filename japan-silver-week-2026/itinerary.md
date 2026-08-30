@@ -10,10 +10,7 @@
 
 Please comment on these points before booking:
 
-1. Can you attend all three days, 21–23 September 2026?
-2. Does the quoted ¥132,000 cover both sites for both nights?
-3. Are the bus route, Day 2 waterfall loop, shared cooking, and rainy-day plan practical?
-4. Do you have any food, accessibility, sleeping, or schedule requirements?
+Can you attend all three days, 21–23 September 2026? no one says no anyway, ignore this.
 
 ## Fixed plan
 
@@ -59,8 +56,6 @@ The ¥132,000 figure is provisional. Confirm that it covers both sites before pa
 
 ![Ridge Garage Lodge exterior](https://static.wixstatic.com/media/019307_ea63c25d1955419d89cfa98bb0d475cd~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2840%29.png)
 
-![Ridge Garage Lodge interior](https://static.wixstatic.com/media/019307_636b078db7ce42aa874478bae6212ead~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2841%29.png)
-
 *Stay visuals: user-supplied Ridge Garage Lodge images. Confirm which image matches the reserved unit and which facilities are included.*
 
 ## Group and site setup
@@ -68,16 +63,16 @@ The ¥132,000 figure is provisional. Confirm that it covers both sites before pa
 | Participant | Group | Starting area |
 |---|---|---|
 | Ismail | Man | Kawaguchi, Saitama |
-| Bayu | Man | Itabashi |
+| Bayu | Man | Itabashi, Tokyo |
 | Azis | Man | Kawaguchi, Saitama |
 | Dhanang/Darto | Man | Chiba |
 | Mila | Woman | Yokohama |
 | Ghisa | Woman | Yokohama |
 | Elis | Woman | Yokohama |
-| Vany | Woman | Tokyo |
+| Fany | Woman | Tokyo |
 
 - **Site 1:** four men. **Site 2:** four women. Confirm privacy and sleeping arrangements with the lodge.
-- Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Vany, and Dhanang/Darto join the agreed Tokyo departure from their own areas.
+- Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Fany, and Dhanang/Darto join the agreed Tokyo departure from their own areas.
 - Meet at [Shibuya Mark City](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal) at least 30 minutes before the booked departure. Confirm attendance before booking all eight bus seats.
 
 ## Timed itinerary
