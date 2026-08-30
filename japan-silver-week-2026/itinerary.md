@@ -105,9 +105,9 @@ The highway-bus route and fare must be confirmed on the [official Tokyo/Shibuya�
 
 ### Tuesday 22 September · Waterfalls and Rising Field
 
-![Tuesday highlight: Rising Field forest accommodation](https://static.wixstatic.com/media/019307_17128fd8407d428a9cdac4bc7af8881f~mv2.png/v1/fill/w_980%2Ch_661%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2844%29.png)
+![Tuesday highlight: Karuizawa waterfall](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg)
 
-*Highlight image: Rising Field’s forest setting. [Image source: Rising Field official camping page](https://www.rising-field.com/rfk-camp).*
+*Highlight image: Karuizawa waterfall. [Image source: Le Grand Karuizawa photo gallery](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg).*
 
 Ryugaeshi Falls is accessed from Kose Onsen with approximately a 15-minute walk. The local bus timetable also lists Kose Onsen, Shiraito Waterfall, and Rising Field stops. [Access reference](https://en.slow-style.com/spots/ryugaeshi-fall/), [current Kusakaru timetable](https://www.kkkg.co.jp/bus/timetable/en-timetable.pdf?v=202604)
 
