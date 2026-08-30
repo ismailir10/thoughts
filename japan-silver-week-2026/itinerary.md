@@ -60,7 +60,7 @@ The budget below treats **¥132,000 as the total charge for both sites and both 
 | Ismail | Man | Kawaguchi, Saitama | Coordinate local travel with Azis where practical |
 | Bayu | Man | Itabashi | Coordinate with the Tokyo-side group |
 | Azis | Man | Kawaguchi, Saitama | Coordinate local travel with Ismail where practical |
-| Dhanang | Man | Chiba | Travel independently to the agreed bus terminal |
+| Dhanang/Darto | Man | Chiba | Travel independently to the agreed bus terminal |
 | Mila | Woman | Yokohama | Coordinate with Ghisa and Elis where practical |
 | Ghisa | Woman | Yokohama | Coordinate with Mila and Elis where practical |
 | Elis | Woman | Yokohama | Coordinate with Mila and Ghisa where practical |
