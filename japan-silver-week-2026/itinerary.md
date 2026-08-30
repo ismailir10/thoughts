@@ -1,5 +1,6 @@
 # Japan Silver Week 2026: Karuizawa, Monday–Wednesday
 
+![Ridge & Rising Weekend event poster](karuizawa-event-poster.png)
 *Event poster: Ridge & Rising Weekend, Karuizawa, 21–23 September 2026.*
 
 Trip plan for a potential eight-person group of Indonesian friends, with a balanced 4-men / 4-women setup.
