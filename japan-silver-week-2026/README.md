@@ -6,6 +6,8 @@ This project plans a short Karuizawa trip for Silver Week 2026. Use this README 
 
 Primary itinerary: [japan-silver-week-2026.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/japan-silver-week-2026.md).
 
+Event poster asset: [karuizawa-event-poster.png](karuizawa-event-poster.png).
+
 Project instructions: [AGENTS.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/AGENTS.md).
 
 Repository workflow: every intentional change should be reviewed, committed, and pushed to the project repository when network access and credentials are available.
@@ -46,8 +48,9 @@ When changing the itinerary:
 1. Keep the dates, Ridge Garage Lodge booking, two-site setup, 4/4 target, bus-only Tokyo–Karuizawa transport, and Rising Field focus consistent.
 2. Recheck live availability, fares, opening hours, lodge facilities, and reservation terms; label estimates clearly.
 3. Keep a Google Maps link for every visit point and transfer destination.
-4. Do not claim halal certification unless a source explicitly confirms it. Recommend ingredient verification instead.
-5. Keep the short Monday–Wednesday scope unless the user explicitly changes it.
+4. Include a real image URL for each day’s highlight and for the accommodation; keep the event poster asset at the top of the itinerary.
+5. Do not claim halal certification unless a source explicitly confirms it. Recommend ingredient verification instead.
+6. Keep the short Monday–Wednesday scope unless the user explicitly changes it.
 
 ## Likely next tasks
 

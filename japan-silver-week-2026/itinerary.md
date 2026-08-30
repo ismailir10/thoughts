@@ -1,5 +1,9 @@
 # Japan Silver Week 2026: Karuizawa, Monday–Wednesday
 
+![Ridge & Rising Weekend event poster](karuizawa-event-poster.png)
+
+*Event poster: Ridge & Rising Weekend, Karuizawa, 21–23 September 2026.*
+
 Trip plan for a potential eight-person group, with a balanced 4-men / 4-women setup.
 
 - **Dates:** Monday 21–Wednesday 23 September 2026
@@ -24,6 +28,10 @@ Trip plan for a potential eight-person group, with a balanced 4-men / 4-women se
 | Quoted total | **¥132,000** for the two-night stay, based on the supplied reservation details |
 
 The budget below treats **¥132,000 as the total charge for both sites and both nights**. Confirm the final booking screen before payment, especially whether the ¥66,000 nightly amount already includes both sites.
+
+![Ridge Garage Lodge / Rising Field accommodation area](https://static.wixstatic.com/media/019307_9cd90b343dc44105b0b10ddb38caaec6~mv2.png/v1/fill/w_980%2Ch_663%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2835%29.png)
+
+*Stay visual: Rising Field’s official camping page shows its lodge and glamping accommodation area; confirm the exact Ridge Garage Lodge layout and included facilities before arrival. [Source](https://www.rising-field.com/rfk-camp).*
 
 ## Itinerary at a glance
 
@@ -71,6 +79,10 @@ The budget below treats **¥132,000 as the total charge for both sites and both 
 
 ## Monday 21 September: Tokyo to the lodge
 
+![Monday highlight: arriving at Karuizawa Station](https://karuizawa-kankokyokai.jp/wordpress/wp-content/uploads/2023/03/3309748_s.jpg)
+
+*Monday highlight: arrive through Karuizawa Station, then connect by local bus to Rising Field. [Image source: Karuizawa Tourism Association](https://karuizawa-kankokyokai.jp/course/63848/).*
+
 ### Morning: highway bus to Karuizawa
 
 1. Take a highway bus from [Shibuya Mark City bus terminal](https://www.google.com/maps/search/?api=1&query=Shibuya+Mark+City+bus+terminal) to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa+Station).
@@ -93,6 +105,10 @@ The budget below treats **¥132,000 as the total charge for both sites and both 
 - If the weather is clear, finish with a short stargazing or night-sounds session from the lodge area; follow lighting, fire, and quiet-hour rules.
 
 ## Tuesday 22 September: full Rising Field and lodge day
+
+![Tuesday highlight: Rising Field forest accommodation](https://static.wixstatic.com/media/019307_17128fd8407d428a9cdac4bc7af8881f~mv2.png/v1/fill/w_980%2Ch_661%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2844%29.png)
+
+*Tuesday highlight: spend the main day in Rising Field’s forest setting with outdoor activities, shared meals, and lodge time. [Image source: Rising Field official camping page](https://www.rising-field.com/rfk-camp).*
 
 This is the main activity day. Keep the group near the lodge so the trip benefits from the two-night booking instead of spending the day on transfers.
 
@@ -124,6 +140,10 @@ This is the main activity day. Keep the group near the lodge so the trip benefit
 - Finish with a clear lights-out time so everyone can rest.
 
 ## Wednesday 23 September: final lodge time and return to Tokyo
+
+![Wednesday highlight: optional Shiraito Falls nature stop](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg)
+
+*Wednesday highlight: an optional final nature stop at Shiraito Falls if the checkout and bus schedule leave a comfortable margin. [Image source: Le Grand Old Karuizawa photo gallery](https://www.legrand-karuizawa.jp/photo/).*
 
 ### Morning
 

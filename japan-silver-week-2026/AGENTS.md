@@ -17,7 +17,9 @@ This folder contains the Japan Silver Week 2026 Karuizawa trip plan.
 ## Editing rules
 
 - Keep `japan-silver-week-2026.md` as the primary itinerary and update `README.md` when its assumptions or workflow change.
+- Keep `karuizawa-event-poster.png` at the top of the itinerary unless the user requests a replacement.
 - Preserve participant names, starting areas, dates, accommodation, transport, and cost assumptions unless the user changes them.
+- Include a real image URL for each day’s highlight and for the accommodation, with a source caption.
 - Label live prices, schedules, availability, and facility details as estimates until rechecked.
 - Keep optional activities clearly separate from the core plan.
 - Check Markdown consistency and arithmetic before handoff.
