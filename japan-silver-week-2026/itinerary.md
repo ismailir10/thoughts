@@ -1,335 +1,185 @@
-# Japan Silver Week 2026: Karuizawa Base
+# Japan Silver Week 2026: Karuizawa, Monday–Wednesday
 
-Detailed group plan for 6 Indonesian travelers: Ismail, Azis, Bayu, and 3 women.
+Trip plan for **Ismail, Azis, Bayu, and three women**.
 
-## Trip assumptions
+- **Dates:** Monday 21–Wednesday 23 September 2026
+- **Group:** six people, one shared itinerary
+- **Route:** Tokyo → Karuizawa → Rising Field → Shiraito Falls → Tokyo
+- **Transport:** highway bus and local buses; no Shinkansen in core plan
+- **Stay:** hostel/guesthouse Monday; Rising Field camping Tuesday
+- **Budget target:** approximately **¥30,000 per person**, excluding international flights, shopping, and souvenirs
+- **Weather goal:** Karuizawa highland air is cooler than Tokyo; prepare for a cold, damp night
+- **Food:** no alcohol; verify pork, lard, mirin, cooking sake, alcohol-based sauces, gelatin, and dashi
 
-- Dates: Monday 21 to Saturday 26 September 2026.
-- Sunday 27 September reserved for rest.
-- Start and finish: Tokyo.
-- Base: Karuizawa, Nagano.
-- Budget target: ¥50,000–¥80,000 per person, excluding international flights and shopping.
-- Three men bring their own tent and camp for one night.
-- Ismail, Azis, and Bayu follow the same men's itinerary.
-- One woman needs low-impact alternatives. Every active activity has an easier option.
-- Thursday and Friday are work-from-anywhere days.
-- All travelers are Muslim: no alcohol venues, alcohol-based meals, pork, or lard.
+## Itinerary at a glance
 
-Karuizawa sits at high elevation and is substantially cooler than Tokyo. September normals are approximately 20°C daytime and 11°C overnight, so camping needs warm layers and a proper sleeping bag. [JMA climate data](https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_d.php?block_no=47622&day=&month=09&prec_no=48&view=p1s&year=)
+| Date | Plan | Transport / known cost | Overnight |
+|---|---|---:|---|
+| **Mon 21 Sep** | Tokyo → Karuizawa. Store luggage. Ismail, Azis, and Bayu run 8–12 km on marked local roads/forest paths. Others take an easy Kumoba Pond walk. Reunite at Kyu-Karuizawa Ginza. | Highway bus Tokyo–Karuizawa: **¥3,300 one-way**. Kyu-Karuizawa bus: **¥160 one-way**, or walk. | Station-area hostel/guesthouse |
+| **Tue 22 Sep** | Check out and travel together to Rising Field. Camp at Center Field. Easy campsite day: setup, lunch, short nature walk, cooking, prayer, and rest. | Karuizawa Station ↔ Rising Field: **¥460 each way**. Center Field: **¥11,000/site**. | Rising Field |
+| **Wed 23 Sep** | Pack. Visit Shiraito Falls. Return to Karuizawa and take the highway bus to Tokyo. | Shiraito Falls bus: **¥720 each way**. Highway bus: **¥3,300**. | Home / Tokyo |
 
-## Quick view
-
-| Date | Main plan | Group split | Overnight |
-|---|---|---|---|
-| Mon 21 Sep | Tokyo → Karuizawa; trail run; Kyu-Karuizawa | Ismail + Azis + Bayu run; women choose easy options | Karuizawa hostel/guesthouse |
-| Tue 22 Sep | Camping + Oiwake-juku | Ismail + Azis + Bayu camp; 3 women local culture day | Men camp; women Karuizawa |
-| Wed 23 Sep | Komoro local day trip | All together | Karuizawa hostel/guesthouse |
-| Thu 24 Sep | WFA | All work; private booths for calls | Karuizawa hostel/guesthouse |
-| Fri 25 Sep | WFA + local food | All work; market/dinner after work | Karuizawa hostel/guesthouse |
-| Sat 26 Sep | Shiraito Falls; return to Tokyo | Easy route available | Tokyo |
-
-### Budget at a glance
-
-| Group | Working estimate per person | Main difference |
-|---|---:|---|
-| 3 women | ¥60,000–¥85,000 | No camping cost; varies by long-distance transport |
-| 3 men | ¥64,000–¥93,000 | Camping site and gear transport |
-| Target | Around ¥75,000–¥85,000 | Mixed transport, hostel/bunk beds, groceries |
-| Comfortable ceiling | Around ¥95,000–¥100,000 | Shinkansen both ways, private rooms, restaurant meals, cabin fallback |
-
-Detailed activity, food, budget, and booking notes follow below.
-
-## Recommended accommodation strategy
-
-Use one hostel or guesthouse base near [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) for all five nights. Prioritize six bunk beds or private hostel rooms; use a guesthouse private-room setup when hostel availability is poor. This avoids moving luggage before workdays.
-
-Search order: use [Hostelworld](https://www.hostelworld.com/) to compare Karuizawa dorms and private hostel rooms, then check the property website or contact the property directly for a lower rate. Compare the final total, cancellation terms, Wi-Fi, location, luggage storage, and male/female dorm arrangements before booking.
-
-Budget shortlist: [Guesthouse Chaconne Karuizawa](https://www.chaconnekaruizawa.com/english-top-page/vacancy-reservation/) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Guesthouse%20Chaconne%20Karuizawa)). It offers private rooms, high-speed Wi-Fi, and is about 15 minutes on foot from Karuizawa Station. Contact directly for six-person availability; the site notes that direct contact may find rooms not shown online. Also search Karuizawa guesthouses for male/female dormitory beds before accepting private rooms.
-
-Booking requirements:
-
-- Six hostel bunk beds, or three private rooms/equivalent sleeping arrangement for six.
-- Desk/table and reliable Wi-Fi in at least one room.
-- Luggage storage while the men camp.
-- Flexible cancellation where possible.
-- No alcohol-focused property or alcohol included in meals.
-
-## Muslim-friendly food and prayer rules
-
-Japanese food is not automatically halal: cooking sake and mirin may appear in sauces, soup stock, miso, marinades, and sweets. JNTO also warns that animal fats and gelatin can be present in otherwise simple foods. [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
-
-- No alcohol drinking or alcohol-focused venues.
-- No pork, bacon, ham, lard, non-halal meat, mirin, cooking sake, or alcohol-based sauces.
-- Prefer seafood, vegetables, tofu, fruit, and clearly verified vegetarian dishes.
-- Ask every restaurant about dashi, sauce, marinade, and shared cooking equipment.
-- Carry a small halal pantry from Tokyo for breakfast, camping, and emergency meals.
-- Use this Japanese request: `ムスリムです。豚肉、ラード、酒、みりんを使わない料理をお願いします。`
-- Bring prayer mats and confirm a clean private prayer space at the hostel/guesthouse. Plan prayer breaks before long transfers and outdoor activities.
-
-## Detailed itinerary notes
-
-### Monday 21 September: arrival, trail run, classic Karuizawa
+## Monday 21 September: bus, run, and classic Karuizawa
 
 ![Kumoba Pond, Karuizawa](https://static.gltjp.com/glt/data/article/21000/20587/20240115_132707_a52c76f9_w1920.webp)
 
-*Image: [Kumoba Pond photo source](https://www.gltjp.com/en/article/item/20587/)*
+*Real Kumoba Pond image: [source article](https://www.gltjp.com/en/article/item/20587/).*
 
-**08:00–10:00 — Tokyo to Karuizawa**
+### Morning: Tokyo → Karuizawa
 
-- Take the Hokuriku Shinkansen from [Tokyo Station](https://www.google.com/maps/search/?api=1&query=Tokyo%20Station) to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station).
-- Reserve seats early because this is a Silver Week public holiday.
-- Leave luggage at the hostel/guesthouse if rooms are not ready.
+1. Take a highway bus from [Shibuya Mark City bus terminal](https://www.google.com/maps/search/?api=1&query=Shibuya+Mark+City+bus+terminal) to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa+Station).
+2. Current reference fare: **¥3,300 per person one-way**. Book early because 21 September is during Silver Week.
+3. Tokyo rail to/from Shibuya is budgeted separately at **¥1,000 per person round trip**.
+4. Leave bags at the hostel/guesthouse if check-in is not ready.
 
-**12:00–16:00 — Activity split**
+Useful booking reference: [Highwaybus.com Shibuya–Karuizawa route](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113).
 
-- Ismail + Azis + Bayu: 8–12 km marked [Karuizawa forest/highland trail route](https://www.google.com/maps/search/?api=1&query=Karuizawa%20forest%20trail) run.
-- Two stronger women: optional short hike, cycling, or café route.
-- Less-active woman: [Kumoba Pond](https://www.google.com/maps/search/?api=1&query=Kumoba%20Pond%2C%20Karuizawa) short walk, café, museum, or [Karuizawa Prince Shopping Plaza](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Shopping%20Plaza).
+### Afternoon: running and accessible alternative
 
-Use only marked local trails and finish before dusk. Do not plan a summit attempt. If rain is heavy, replace the trail run with a 5–7 km road run or indoor activity.
+- **Ismail, Azis, Bayu:** target 8–12 km using marked roads and established paths near Karuizawa. Keep route flat enough for safe return and finish before dusk.
+- **Other participants:** easy [Kumoba Pond](https://www.google.com/maps/search/?api=1&query=Kumoba+Pond+Karuizawa) walk, nearby café, or [Karuizawa Prince Shopping Plaza](https://www.google.com/maps/search/?api=1&query=Karuizawa+Prince+Shopping+Plaza).
+- Meet afterward at [Kyu-Karuizawa Ginza Street](https://www.google.com/maps/search/?api=1&query=Kyu-Karuizawa+Ginza+Street).
+- Heavy rain fallback: 5–7 km road run for the runners; shopping, café, or indoor sightseeing for others.
 
-**16:30 onward — [Kyu-Karuizawa Ginza](https://www.google.com/maps/search/?api=1&query=Kyu-Karuizawa%20Ginza)**
+### Evening
 
-Classic tourist stop: old shopping street, bakeries, cafés, and dinner. Keep this as the main tourist-heavy stop of the day.
+Use Kyu-Karuizawa Ginza as the tourist-heavy stop. Choose seafood, vegetarian, or clearly verified dishes. Ask about mirin, cooking sake, pork stock, and shared cooking equipment before ordering.
 
-### Tuesday 22 September: camping split and Oiwake-juku
+## Tuesday 22 September: all-six camping at Rising Field
 
-![Rising Field Karuizawa camping](https://static.wixstatic.com/media/019307_9cd90b343dc44105b0b10ddb38caaec6~mv2.png/v1/fill/w_980%2Ch_663%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2835%29.png)
+![Rising Field Center Field camping](https://static.wixstatic.com/media/019307_17128fd8407d428a9cdac4bc7af8881f~mv2.png/v1/fill/w_980%2Ch_661%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Mask%20group%20%2844%29.png)
 
-*Image: [Rising Field official camping page](https://www.rising-field.com/rfk-camp)*
+*Real Rising Field camping image from [Rising Field official camping page](https://www.rising-field.com/rfk-camp).*
 
-#### Ismail, Azis, Bayu: one-night camping
+### Morning: Karuizawa → Rising Field
 
-- Carry tent, sleeping system, rain protection, food, and headlamps.
-- Use the public bus to [Rising Field Karuizawa](https://www.rising-field.com/rfk-camp?lang=en) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Rising%20Field%20Karuizawa)). The official access page says the Kusatsu-bound bus from Karuizawa Station takes about 15–20 minutes and stops at Rising Field. [Bus access details](https://www.rising-field.com/rfk-access)
-- Use the group's [Google Maps transit route](https://www.google.com/maps/dir/?api=1&origin=35.8161046%2C139.7073323&destination=36.3855342%2C138.6178067&travelmode=transit) as the starting route reference; confirm the final stop and timetable.
-- Prefer a normal tent site; choose a covered or cabin-style site if forecast is poor.
-- Bring sleeping gear suitable for cold, damp late-September nights.
+- Check out and keep everyone on one itinerary.
+- Take the Kusakaru local bus from [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa+Station) to [Rising Field Karuizawa](https://www.google.com/maps/search/?api=1&query=Rising+Field+Karuizawa).
+- Fare: **¥460 one-way per person**; budget **¥920 return** if using the same route Wednesday.
+- Approximate ride: 15–20 minutes. Confirm departure times in the [2026 Kusakaru timetable PDF](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604).
+- The user-provided route reference is [Google Maps transit directions](https://www.google.com/maps/dir/?api=1&origin=35.8161046%2C139.7073323&destination=36.3855342%2C138.6178067&travelmode=transit).
 
-Rising Field offers multiple camping styles, including self-pitched sites and covered/ready-made options. Confirm the exact site, check-in time, bus fare/timetable, and fire rules during booking.
+### Site choice
 
-#### Women: quiet local itinerary
+Availability below was checked **30 August 2026**. It is a live snapshot, not a booking guarantee.
 
-- Visit **[Oiwake-juku](https://www.google.com/maps/search/?api=1&query=Oiwake-juku%2C%20Karuizawa)**, an Edo-period post town at the junction of the Nakasendo and Hokkoku-kaido roads.
-- Visit **[Oiwajuku Folk Museum](https://www.google.com/maps/search/?api=1&query=Oiwajuku%20Folk%20Museum)**, open 09:00–17:00 and generally open through October.
-- Walk around [Sengen Shrine](https://www.google.com/maps/search/?api=1&query=Sengen%20Shrine%2C%20Karuizawa) and [Oiwake Park](https://www.google.com/maps/search/?api=1&query=Oiwake%20Park%2C%20Karuizawa).
-- Finish at a small café or pre-checked Muslim-friendly dinner spot.
-
-Oiwake is a better fit than another major tourist district: historic, calm, and manageable for the less-active participant. [Oiwake official details](https://karuizawa-kankokyokai.jp/en/spot/32000/)
-
-### Wednesday 23 September: Komoro local day trip
-
-![Kaikoen, Komoro Castle Ruins](https://assets.sparkle.travel/place/komoro-joshi-kaikoen/6ittek/large.jpg)
-
-*Image: [Kaikoen photo source](https://www.sparkle.travel/hk/place/827d8060-dc5c-11ee-9b39-c7c8948f11a7)*
-
-**09:30 — Karuizawa to Komoro**
-
-- Take the Shinano Railway from [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) to [Komoro Station](https://www.google.com/maps/search/?api=1&query=Komoro%20Station), approximately 25–30 minutes.
-
-**10:15–16:30 — Local Nagano program**
-
-1. **[Kaikoen / Komoro Castle Ruins](https://www.google.com/maps/search/?api=1&query=Kaikoen%2C%20Komoro)** — stone walls and a compact historical park.
-2. **[Komoro-juku](https://www.google.com/maps/search/?api=1&query=Komoro-juku)** — preserved post-town streets and local shops.
-3. Lunch: **[onikake soba in Komoro](https://www.google.com/maps/search/?api=1&query=onikake%20soba%2C%20Komoro)**, a traditional local soba dish.
-4. Optional: **[Kumeya Tea Chakabuki Game](https://www.google.com/maps/search/?api=1&query=Kumeya%20Tea%20Chakabuki%20Game)**, a traditional tea-identification experience. Reserve in advance if available.
-
-Do not add Nunobiki Kannon and the tea experience on the same day. Default choice: Kaikoen + Komoro-juku + soba. The tea experience is the preferred unusual, alcohol-free add-on. [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
-
-### Thursday 24 September: WFA day
-
-![Karuizawa Prince The Workation Core](https://img.rurubu.jp/img_srw/andmore/images/0000374283/kvqc1SYkHuArbCQiHZlI71rVnM6cyQZvHkGHKgnz.jpeg)
-
-*Image: [Workation Core photo source](https://rurubu.jp/andmore/article/15037)*
-
-**09:00–17:00 — Work**
-
-- Main workspace: hostel private room or quiet café.
-- Use [Karuizawa Prince The Workation Core](https://www.karuizawa-pwc.jp/en/) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20The%20Workation%20Core)) for video calls or focused work.
-- It is four minutes from Karuizawa Station and has private booths, meeting rooms, free Wi-Fi, lockers, and carry-case storage.
-- April–October hours: 09:00–18:00.
-- Use it for calls, not necessarily a full day for everyone: private rooms cost ¥330 per 15 minutes.
-
-**After work**
-
-- Easy visit to [Harunire Terrace](https://www.google.com/maps/search/?api=1&query=Harunire%20Terrace%2C%20Karuizawa) and the [Hoshino area](https://www.google.com/maps/search/?api=1&query=Hoshino%20area%2C%20Karuizawa).
-- Less-active participant can stay at the terrace/café while others take a short nature walk.
-
-### Friday 25 September: WFA + local food
-
-![Hotchi Ichiba local market](https://images.www.kateigaho.com/media/article/173044/images/editor/6200debcd2a00eaaf767d346ae1fd683de75bc1b.jpg?w=670)
-
-*Image: [Hotchi Ichiba photo source](https://www.kateigaho.com/food/temiyage/173044/)*
-
-**09:00–17:00 — Work**
-
-Keep the group in Karuizawa. No intercity travel.
-
-**After work or Saturday morning — Hotchi Ichiba**
-
-- Buy Karuizawa vegetables, fruit, cheese, tofu, snacks, and picnic items at [Hotchi Ichiba](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa). Check labels for pork, lard, mirin, cooking sake, and alcohol.
-- The market is open approximately 09:00–17:00; food-stall hours can differ.
-- Use local ingredients for one simple dinner or picnic.
-- Cheap fallback: use a [Saizeriya Saku-daira](https://www.google.com/maps/search/?api=1&query=Saizeriya%20Saku-daira) family restaurant meal. Saizeriya is not automatically halal; check every dish for pork, lard, mirin, cooking sake, alcohol-based sauce, and shared cooking equipment. [Example listing](https://tabelog.com/en/nagano/A2003/A200302/20016264/)
-
-[Hotchi Ichiba official site](https://karuizawa.hotchi-ichiba.com/)
-
-### Saturday 26 September: famous nature, local food, return
-
-![Shiraito Falls, Karuizawa](https://visitkaruizawa.com/wp/wp-content/uploads/photo_nature_shiraitonotaki.jpg)
-
-*Image: [Shiraito Falls photo source](https://visitkaruizawa.com/en/)*
-
-**Early morning — [Shiraito Falls](https://www.google.com/maps/search/?api=1&query=Shiraito%20Falls%2C%20Karuizawa)**
-
-- Go early to reduce crowd exposure.
-- Short, accessible tourist nature stop.
-- Fitter members may add [Sengataki Falls](https://www.google.com/maps/search/?api=1&query=Sengataki%20Falls%2C%20Karuizawa) or [Karuizawa Wild Bird Forest](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Wild%20Bird%20Forest).
-- Less-active participant stays with the shorter route and café/rest option.
-
-**Late morning — local market or lunch**
-
-- Visit [Hotchi Ichiba](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa) if transport timing works.
-- Otherwise return directly to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Station) and have lunch there.
-
-**Afternoon — Karuizawa to Tokyo**
-
-- Return by Shinkansen.
-- Aim to arrive in Tokyo by late afternoon.
-
-## Tourist/local balance
-
-### Stay visual
-
-![Guesthouse Chaconne Karuizawa bedroom](https://guesthousechaconne.com/wp-content/uploads/2020/03/DSC043981-scaled.jpg)
-
-*Image: [Guesthouse Chaconne photo source](https://guesthousechaconne.com/facility/)*
-
-### Main tourist stops
-
-- [Kyu-Karuizawa Ginza](https://www.google.com/maps/search/?api=1&query=Kyu-Karuizawa%20Ginza).
-- [Shiraito Falls](https://www.google.com/maps/search/?api=1&query=Shiraito%20Falls%2C%20Karuizawa).
-- [Karuizawa Station / outlet area](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Prince%20Shopping%20Plaza).
-
-### Local or less-obvious stops
-
-- [Oiwake-juku](https://www.google.com/maps/search/?api=1&query=Oiwake-juku%2C%20Karuizawa) and [Oiwajuku Folk Museum](https://www.google.com/maps/search/?api=1&query=Oiwajuku%20Folk%20Museum).
-- [Komoro Castle Ruins](https://www.google.com/maps/search/?api=1&query=Kaikoen%2C%20Komoro) and [Komoro-juku](https://www.google.com/maps/search/?api=1&query=Komoro-juku).
-- [Onikake soba in Komoro](https://www.google.com/maps/search/?api=1&query=onikake%20soba%2C%20Komoro).
-- [Hotchi Ichiba local market](https://www.google.com/maps/search/?api=1&query=Hotchi%20Ichiba%2C%20Karuizawa).
-- [Hoshino area](https://www.google.com/maps/search/?api=1&query=Hoshino%20area%2C%20Karuizawa), [Harunire Terrace](https://www.google.com/maps/search/?api=1&query=Harunire%20Terrace%2C%20Karuizawa), [Sengataki](https://www.google.com/maps/search/?api=1&query=Sengataki%20Falls%2C%20Karuizawa), and [Wild Bird Forest](https://www.google.com/maps/search/?api=1&query=Karuizawa%20Wild%20Bird%20Forest).
-- [Kumeya Tea Chakabuki Game](https://www.google.com/maps/search/?api=1&query=Kumeya%20Tea%20Chakabuki%20Game), if reserved.
-
-## Transport price comparison
-
-Checked 29 August 2026. Prices below are adult fares and should be rechecked when booking because bus availability and some ticket prices can change by date.
-
-### Tokyo–Karuizawa long-distance options
-
-| Option | One way per person | Return per person | Return for 6 people | Approx. time | Use when |
-|---|---:|---:|---:|---:|---|
-| Reserved Hokuriku Shinkansen | ¥6,130 | ¥12,260 | ¥73,560 | About 1 hour | Fastest and most reliable for the Silver Week outbound trip |
-| Highway bus, Shibuya–Karuizawa | ¥3,300 | ¥6,600 | ¥39,600 | About 3 hours 15 minutes | Cheapest; allow for traffic and a less flexible day |
-| Mixed: Shinkansen outbound + bus return | ¥6,130 + ¥3,300 | ¥9,430 | ¥56,580 | About 1 hour + 3 hours 15 minutes | Best balance of arrival reliability and cost |
-
-The highway bus starts at Shibuya, not at each person's home. Allow approximately ¥1,000 per person for local Tokyo trains to and from Shibuya. With that allowance, the practical totals are **¥7,600 per person / ¥45,600 for six** for bus both ways, or **¥10,430 per person / ¥62,580 for six** for the mixed plan. The Shinkansen return remains **¥12,260 per person / ¥73,560 for six**, excluding local Tokyo access.
-
-For this group, the recommended transport budget is the mixed plan: take the Shinkansen to Karuizawa on Monday morning, then take the highway bus back to Shibuya on Saturday only if the timetable and traffic outlook are acceptable. If everyone values time and certainty more than saving ¥2,830 per person, use the Shinkansen both ways.
-
-### Planned local transport
-
-| Segment | Fare calculation | Per-person cost | Group cost / note |
+| Site | 22 Sep status | High-season price | Decision |
 |---|---:|---:|---|
-| Monday: Karuizawa Station ↔ Kyu-Karuizawa | ¥160 × 2 by bus | ¥320 | ¥1,920 for six; walking can reduce this to ¥0 |
-| Tuesday men: Karuizawa Station ↔ Rising Field | ¥460 × 2 by bus | ¥920 | ¥2,760 for Ismail, Azis, and Bayu |
-| Tuesday women: Karuizawa ↔ Shinano-Oiwake | ¥242 × 2 by IC, or ¥250 × 2 cash | ¥484–¥500 | Per woman; onward walk/local transfer to Oiwake-juku may be needed |
-| Wednesday: Karuizawa ↔ Komoro | ¥495 × 2 by IC, or ¥500 × 2 cash | ¥990–¥1,000 | ¥5,940–¥6,000 for six |
-| Thursday: hostel/station-area WFA | Walk | ¥0 | Workation Core is near the station; workspace fees are separate |
-| Friday: Hotchi Ichiba | Walk by default | ¥0 baseline | Keep ¥500–¥1,000 contingency if a local bus is needed |
-| Saturday: Karuizawa Station ↔ Shiraito Falls | ¥720 × 2 by bus | ¥1,440 | ¥8,640 for six |
+| **Center Field** | Available | **¥11,000/site** | **Book first.** Capacity 8, 100 m², 1500W power, easiest shared setup. |
+| Forest Field | Available | ¥11,000/site | First fallback. Cooler forest setting, no power. |
+| Sky Field | Available | ¥11,000/site | Second fallback. Open lawn and Asama views; more exposed to wind. |
+| Ridge Lodge | Limited | ¥25,000/site | Comfort fallback only; weakens budget buffer. |
+| Sweet Field | Full | ¥11,000/site | Do not use unless availability changes. |
+| Salvage Lodge | Full | ¥25,000/site | Do not use unless availability changes. |
+| Bushcraft Field | Available | ¥5,500/site | Too small; capacity 2. |
 
-Core local transport is approximately **¥3,200–¥3,700 per woman** and **¥3,700–¥4,200 per man**, before optional cycling, extra buses, or taxis. The men's total includes the Rising Field bus; the women's total uses the Shinano-Oiwake train option.
+Sources: [live availability](https://rsv.rising-field.net/inventories/sites), [camping facilities](https://www.rising-field.com/rfk-camp), [official price chart](https://www.rising-field.com/rfk-facility-schedule), and [reservation page](https://www.rising-field.com/rfc-reservation?lang=en).
 
-## Detailed budget notes
+### Sleeping setup
 
-### Working target per person
+- Ismail, Azis, and Bayu bring their own tent and sleeping gear.
+- All six stay at the same Center Field site.
+- If the women do not have suitable equipment, price one [Hands-free Camp Basic Set](https://www.rising-field.com/rfk-rental) at **¥19,800 per night**. Share this cost across six people: **¥3,300 each**.
+- Confirm the rental set’s actual sleeping capacity before paying. Do not assume one set covers all three women without checking.
+- Bring warm layers, sleeping bags rated for cool nights, rain protection, headlamps, and prayer mats.
 
-| Category | Women | Men | Notes |
-|---|---:|---:|---|
-| Long-distance transport | ¥7,600 / ¥10,430 / ¥12,260 | ¥7,600 / ¥10,430 / ¥12,260 | Bus both ways / mixed / Shinkansen both ways; bus options include ¥1,000 Tokyo–Shibuya allowance |
-| Local trains and buses | ¥3,200–¥3,700 | ¥3,700–¥4,200 | Actual planned fares above; public transport first |
-| Accommodation, 5 nights | ¥35,000–¥45,000 | ¥35,000–¥45,000 | Requires guesthouse/simple room |
-| Camping night | — | ¥4,000–¥8,000 | Site, firewood, or fallback cabin |
-| Food and groceries | ¥12,000–¥18,000 | ¥12,000–¥18,000 | Groceries + Saizeriya-style budget meals |
-| Basic activities | ¥2,000–¥5,000 | ¥2,000–¥5,000 | Includes optional tea experience |
-| **Estimated total** | **¥60,000–¥85,000** | **¥64,000–¥93,000** | Before shopping; transport choice changes the total |
+### Easy campsite program
 
-### Scenario totals for the full group
+- Setup and lunch after arrival.
+- Short, low-impact walk around [Rising Field](https://www.google.com/maps/search/?api=1&query=Rising+Field+Karuizawa).
+- Cook simple food using verified ingredients.
+- Leave time for prayer, rest, and quiet conversation.
+- No alcohol-focused activity or venue.
 
-| Long-distance choice | Women, each | Men, each | Approx. total for 6 |
-|---|---:|---:|---:|
-| Bus both ways | ¥60,000–¥80,000 | ¥63,000–¥88,000 | ¥369,000–¥504,000 |
-| Mixed: Shinkansen out + bus back | ¥63,000–¥83,000 | ¥66,000–¥91,000 | ¥387,000–¥522,000 |
-| Shinkansen both ways | ¥65,000–¥85,000 | ¥68,000–¥94,000 | ¥399,000–¥537,000 |
+## Wednesday 23 September: Shiraito Falls and return to Tokyo
 
-These totals exclude international flights, shopping, and optional full-day private work booths. Add a ¥5,000–¥10,000 personal emergency buffer, especially because 21–23 September is Silver Week.
+![Shiraito Falls, Karuizawa](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg)
 
-### How to stay near ¥80,000
+*Real Shiraito Falls image shown in [Le Grand Karuizawa’s photo gallery](https://www.legrand-karuizawa.jp/photo/).*
 
-- Choose hostel bunk beds or a guesthouse, not a resort hotel.
-- Target accommodation at ¥7,000–¥8,500 per person per night.
-- Buy breakfast and one dinner from supermarket/Hotchi Ichiba.
-- Use Saizeriya-style family restaurants for a cheap meal after checking ingredients and cooking practices.
-- Use the mixed transport plan to target roughly ¥75,000–¥85,000 per person: Shinkansen outbound, highway bus return, and ¥1,000 local-Tokyo allowance for the bus terminal.
-- Use Workation Core only for meetings, not full-day seating.
-- Skip the tea experience if budget is tight.
-- Keep ¥5,000–¥10,000 emergency buffer for Silver Week price increases.
+### Morning
 
-### Optional upgrades
+1. Pack, clean the site, and check out from [Rising Field](https://www.google.com/maps/search/?api=1&query=Rising+Field+Karuizawa).
+2. Take the local bus back to [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa+Station): **¥460**.
+3. Take the local bus to [Shiraito Falls](https://www.google.com/maps/search/?api=1&query=Shiraito+Falls+Karuizawa): **¥720 each way**.
+4. Walk the short accessible route, take photos, and return to Karuizawa Station.
 
-- Kumeya Tea Chakabuki Game: price and availability require direct confirmation.
-- Full-day private work booths: avoid unless required; cost rises quickly.
-- Cabin instead of tent: safer in bad weather, but higher camping cost.
+### Afternoon and evening
 
-## Weather and contingency rules
+- Allow luggage and meal buffer before departure.
+- Take a late-afternoon highway bus from [Karuizawa Station](https://www.google.com/maps/search/?api=1&query=Karuizawa+Station) to [Shibuya Mark City](https://www.google.com/maps/search/?api=1&query=Shibuya+Mark+City+bus+terminal).
+- Highway bus return fare: **¥3,300 per person**.
+- If no suitable bus remains after Shiraito Falls, skip the falls and take an earlier direct bus. Do not force a rushed schedule.
 
-- Check the forecast 48 hours before Tuesday camping and Monday trail run.
-- Heavy rain, strong wind, or warning: cancel the trail/camping plan.
-- Men move to a covered site, cabin, or hostel near the camping area.
-- If no safe fallback is available, men return to the Karuizawa hostel/guesthouse and do a local day hike later.
-- Pack thermal base layer, fleece/light jacket, waterproof shell, trail shoes, headlamp, and dry socks.
+## Budget per person
 
-## Booking checklist
+Target assumes Center Field, one hostel night, highway bus both ways, local buses, grocery-heavy meals, and at most one shared rental set.
 
-- [ ] Six hostel bunk beds or private hostel/guesthouse rooms near Karuizawa Station, five nights.
-- [ ] Confirm three men's camping spaces for Tuesday 22 September.
-- [ ] Confirm whether men may leave non-camping luggage at the hostel/guesthouse.
-- [ ] Reserve Shinkansen seats Tokyo–Karuizawa round trip.
-- [ ] Confirm the public-bus stop and timetable to Rising Field.
-- [ ] Confirm Kumeya Tea Chakabuki Game only if selected.
-- [ ] Check Workation Core drop-in/member rules before WFA days.
-- [ ] Check local bus timetables for Shiraito Falls and Hotchi Ichiba.
-- [ ] Pre-check Muslim-friendly restaurants and Japanese ingredient labels.
-- [ ] Bring a prayer mat and confirm a clean private prayer space at the hostel/guesthouse.
-- [ ] Recheck weather 48 hours before outdoor activities.
+| Category | Calculation | Per person |
+|---|---:|---:|
+| Tokyo rail to/from Shibuya | Group allowance | ¥1,000 |
+| Highway bus Tokyo–Karuizawa return | ¥3,300 × 2 | **¥6,600** |
+| Kyu-Karuizawa buses | ¥160 × 2 | ¥320 |
+| Rising Field buses | ¥460 × 2 | **¥920** |
+| Shiraito Falls buses | ¥720 × 2 | **¥1,440** |
+| Monday hostel/guesthouse | Target range | ¥7,000–¥8,500 |
+| Center Field site | ¥11,000 ÷ 6 | **¥1,834** |
+| Food and groceries | Three days | ¥4,500–¥6,000 |
+| Optional Hands-free Camp Basic Set | ¥19,800 ÷ 6 | ¥3,300 |
+| Activities | Mostly free | ¥0–¥1,500 |
+| Locker / contingency | Allowance | ¥500–¥1,000 |
+| **Total with rental** |  | **¥27,000–¥32,500** |
+| **Total without rental** |  | **¥24,000–¥29,000** |
+
+### Budget controls
+
+- Walk to Kyu-Karuizawa instead of taking the bus: save **¥320 per person**.
+- Buy breakfast, fruit, drinks, rice, tofu, vegetables, and verified seafood from a supermarket; cook one campsite meal.
+- Use Saizeriya only as a cheap fallback after checking every dish and sauce. It is not automatically halal.
+- Avoid Ridge Lodge unless comfort is more important than staying near ¥30,000.
+- Two rental sets, restaurant-heavy meals, taxis, or shopping can push the trip over target.
+
+## Stay shortlist
+
+![Guesthouse Chaconne Karuizawa room](https://guesthousechaconne.com/wp-content/uploads/2016/05/bedroomlight-300x199.jpg)
+
+*Real room image from [Guesthouse Chaconne’s official facility page](https://guesthousechaconne.com/facility/).*
+
+Preferred Monday stay: [Guesthouse Chaconne Karuizawa](https://guesthousechaconne.com/) ([Google Maps](https://www.google.com/maps/search/?api=1&query=Guesthouse+Chaconne+Karuizawa)). It is a guesthouse rather than a standard hotel, has private rooms, Wi-Fi, and is near Karuizawa Station. Confirm six-person availability, total price, luggage storage, and whether breakfast ingredients meet group requirements.
+
+Use [Hostelworld](https://www.hostelworld.com/) to compare dorm beds and private hostel rooms, then check the property directly for a lower rate. Prioritize:
+
+- six bunk beds or compatible private rooms;
+- reliable Wi-Fi and luggage storage;
+- no alcohol-focused property;
+- clean prayer space;
+- flexible cancellation;
+- male/female sleeping arrangements acceptable to all participants.
+
+## Muslim-friendly food checklist
+
+Japanese dishes can contain pork stock, lard, mirin, cooking sake, alcohol, gelatin, or non-halal meat. Use this request:
+
+`ムスリムです。豚肉、ラード、酒、みりんを使わない料理をお願いします。`
+
+Prefer verified vegetarian dishes, seafood, tofu, vegetables, fruit, and groceries with clear labels. Carry halal pantry basics from Tokyo for the campsite.
+
+## Booking order
+
+1. Recheck [Rising Field live availability](https://rsv.rising-field.net/inventories/sites) and book Center Field for Tuesday 22 September.
+2. Confirm whether one Hands-free Camp Basic Set covers the three women; add rental only if needed.
+3. Book six highway-bus seats Tokyo → Karuizawa and Karuizawa → Tokyo.
+4. Contact [Guesthouse Chaconne](https://guesthousechaconne.com/) and compare with Hostelworld listings.
+5. Recheck Kusakaru bus times 1–2 weeks before travel.
+6. Verify food ingredients and prepare shared grocery list.
 
 ## Sources
 
-- [Japan 2026 national holidays](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)
-- [Japan Meteorological Agency: Karuizawa September normals](https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_d.php?block_no=47622&day=&month=09&prec_no=48&view=p1s&year=)
-- [Go Nagano: Karuizawa guide](https://www.go-nagano.net/en/trip-idea/id18082)
-- [Rising Field Karuizawa](https://www.rising-field.com/rfk-camp?lang=en)
-- [Rising Field public-bus access](https://www.rising-field.com/rfk-access)
-- [Karuizawa local bus timetable and fares, valid through 31 October 2026](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604)
+- [Rising Field live site availability](https://rsv.rising-field.net/inventories/sites)
+- [Rising Field camping information](https://www.rising-field.com/rfk-camp)
+- [Rising Field access](https://www.rising-field.com/rfk-access)
+- [Rising Field prices](https://www.rising-field.com/rfk-facility-schedule)
+- [Rising Field rentals](https://www.rising-field.com/rfk-rental)
+- [Kusakaru 2026 timetable and fares](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604)
 - [Highwaybus.com Shibuya–Karuizawa fare](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
-- [Current Tokyo–Karuizawa route fares](https://ekitan.com/en/planner/shinkansen/section/tokyo/karuizawa)
-- [Shinano Railway 2026 fare page](https://www.shinanorailway.co.jp/rail-info/fare/)
-- [Karuizawa Workation Core](https://www.karuizawa-pwc.jp/en/)
-- [Oiwajuku Folk Museum](https://karuizawa-kankokyokai.jp/en/spot/32000/)
-- [Komoro local guide](https://www.go-nagano.net/en/trip-idea/a-tour-of-komoro-a-charming-former-post-town-not-far-from-karuizawa)
-- [Hotchi Ichiba](https://karuizawa.hotchi-ichiba.com/)
-- [Karuizawa nature routes](https://karuizawa-kankokyokai.jp/en/about_karuizawa/908/)
 - [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
-- [Hostelworld](https://www.hostelworld.com/)
-- [Saizeriya Saku-daira example listing](https://tabelog.com/en/nagano/A2003/A200302/20016264/)
