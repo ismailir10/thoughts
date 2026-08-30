@@ -4,89 +4,65 @@ This project plans a short Karuizawa trip for Silver Week 2026. Use this README 
 
 ## Current deliverable
 
-Primary itinerary: `japan-silver-week-2026.md` locally, published as `japan-silver-week-2026/itinerary.md` in the GitHub repository.
+Primary itinerary: [japan-silver-week-2026.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/japan-silver-week-2026.md).
 
-Published document: <https://github.com/ismailir10/thoughts/blob/main/japan-silver-week-2026/itinerary.md>
+Project instructions: [AGENTS.md](/Users/ismailrabbanii/Documents/ai-builder/vacation/AGENTS.md).
 
-Last published commit: `782d344` (`docs: shorten Japan Silver Week itinerary`)
+Repository workflow: every intentional change should be reviewed, committed, and pushed to the project repository when network access and credentials are available.
 
 ## Locked decisions
 
 - Dates: Monday 21–Wednesday 23 September 2026.
-- Travelers: Ismail, Azis, Bayu, and three women; six people total.
-- All six follow one itinerary. No separate men/women itinerary.
-- Monday includes an optional 8–12 km run for Ismail, Azis, and Bayu.
-- One participant needs low-impact, accessible alternatives.
-- Tuesday night: all six camp at Rising Field Karuizawa.
-- First campsite choice: Center Field. Forest Field is first fallback; Sky Field is second fallback.
-- Monday night: hostel or guesthouse near Karuizawa Station.
-- Transport: highway bus Tokyo–Karuizawa plus local buses. Core plan excludes Shinkansen, taxis, and rental cars.
-- Budget target: approximately ¥30,000 per person, excluding international flights, shopping, and souvenirs.
+- Accommodation: Ridge Garage Lodge, two sites, both nights.
+- Reservation details supplied by the user: capacity 8 per site; pets allowed; quoted site fee ¥66,000 on each night; quoted total ¥132,000.
+- Target roster: eight people, four men and four women — Ismail, Bayu, Azis, Dhanang, Mila, Ghisa, Elis, and Vany.
+- Starting areas: Ismail and Azis in Kawaguchi, Saitama; Bayu in Itabashi; Dhanang in Chiba; Mila, Ghisa, and Elis in Yokohama; Vany in Tokyo.
+- Confirm attendance before booking the full set of highway-bus seats.
+- Transport: highway bus Tokyo–Karuizawa in both directions, plus local bus to/from the Rising Field area.
+- Main activity focus: Rising Field area and Ridge Garage Lodge facilities.
+- Shiraito Falls is optional only and is not part of the core schedule.
 - Everyone is Muslim: avoid alcohol venues and verify pork, lard, mirin, cooking sake, alcohol-based sauces, gelatin, dashi, and non-halal meat.
-- Tourist/local balance: Kyu-Karuizawa Ginza, Kumoba Pond, Rising Field, and Shiraito Falls.
 
 ## Current itinerary shape
 
 | Day | Core plan |
 |---|---|
-| Monday | Bus Tokyo → Karuizawa; luggage drop; optional run; Kumoba Pond; Kyu-Karuizawa Ginza; hostel/guesthouse |
-| Tuesday | Bus to Rising Field; Center Field camping; easy campsite program; shared cooking and prayer |
-| Wednesday | Pack; Shiraito Falls; bus back to Karuizawa; highway bus to Tokyo |
-
-## Important live facts
-
-Availability and prices are time-sensitive. Recheck before booking.
-
-- Center Field was shown available for Tuesday 22 September 2026 in the 30 August 2026 snapshot.
-- Center Field high-season price: ¥11,000 per site; capacity 8; powered 1500W site.
-- Forest Field and Sky Field were also shown available in that snapshot, both ¥11,000 per site.
-- Rising Field Hands-free Camp Basic Set reference price: ¥19,800 per night. Confirm sleeping capacity before assuming one set covers the three women.
-- Highway bus reference fare: ¥3,300 each way per person.
-- Kusakaru local bus fares: Karuizawa Station–Rising Field ¥460 each way; Shiraito Falls ¥720 each way; Kyu-Karuizawa ¥160 each way.
+| Monday | Highway bus Tokyo → Karuizawa; local bus to Rising Field; check in to two Ridge Garage Lodge sites; orientation walk; shared dinner |
+| Tuesday | Full Rising Field and lodge day: nature, movement, group games, facility time, cooking, prayer, and evening gathering |
+| Wednesday | Final lodge-area activity; pack and clean; local bus to Karuizawa Station; highway bus to Tokyo |
 
 ## Budget model
 
-Expected range:
+The accommodation estimate assumes the supplied ¥132,000 is the total for both sites and both nights.
 
-- With one shared rental set: approximately ¥27,000–¥32,500 per person.
-- Without rental: approximately ¥24,000–¥29,000 per person.
-
-Main cost controls: book Center Field, use bus instead of Shinkansen, walk to Kyu-Karuizawa when practical, buy groceries, cook one campsite meal, and avoid taxis or multiple rental sets.
-
-## Source links
-
-- [Rising Field live availability](https://rsv.rising-field.net/inventories/sites)
-- [Rising Field camping](https://www.rising-field.com/rfk-camp)
-- [Rising Field access](https://www.rising-field.com/rfk-access)
-- [Rising Field prices](https://www.rising-field.com/rfk-facility-schedule)
-- [Rising Field rentals](https://www.rising-field.com/rfk-rental)
-- [Rising Field reservation](https://www.rising-field.com/rfc-reservation?lang=en)
-- [Kusakaru 2026 timetable and fares](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604)
-- [Highwaybus.com Tokyo/Shibuya–Karuizawa](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
-- [Hostelworld](https://www.hostelworld.com/)
-- [Guesthouse Chaconne](https://guesthousechaconne.com/)
-- [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
+- Eight people: accommodation share **¥16,500 per person**; estimated trip total **¥30,020–¥37,520 per person**.
+- Six people: accommodation share **¥22,000 per person**; estimated trip total **¥35,520–¥39,020 per person**.
+- Reconfirm the final Ridge Garage Lodge price before payment, especially whether ¥66,000 is the total nightly charge for both sites.
 
 ## Verification rules
 
-When changing itinerary:
+When changing the itinerary:
 
-1. Keep dates, group size, names, Muslim constraints, camping setup, and ¥30,000 target consistent.
-2. Recheck live availability, fares, opening hours, and accommodation prices; label estimates clearly.
+1. Keep the dates, Ridge Garage Lodge booking, two-site setup, 4/4 target, bus-only Tokyo–Karuizawa transport, and Rising Field focus consistent.
+2. Recheck live availability, fares, opening hours, lodge facilities, and reservation terms; label estimates clearly.
 3. Keep a Google Maps link for every visit point and transfer destination.
-4. Use only real place-specific image URLs. Check HTTP status and MIME type; avoid placeholder images.
-5. Do not claim halal certification unless a source explicitly confirms it. Recommend ingredient verification instead.
-6. Preserve the short Monday–Wednesday scope unless the user explicitly changes it.
+4. Do not claim halal certification unless a source explicitly confirms it. Recommend ingredient verification instead.
+5. Keep the short Monday–Wednesday scope unless the user explicitly changes it.
 
 ## Likely next tasks
 
-- Check actual hostel/guesthouse availability and direct-booking price for Monday 21 September.
-- Recheck Center Field availability and reserve it before it fills.
-- Confirm one rental set’s sleeping capacity and women’s sleeping arrangement.
-- Select exact highway-bus departures that leave enough time for Monday activities and Wednesday Shiraito Falls.
-- Build a shared grocery list with Japanese ingredient labels and prayer/rest timing.
-- Add weather and rain-plan details closer to departure.
+- Confirm that the ¥132,000 Ridge Garage Lodge quote covers both sites for both nights.
+- Confirm beds/futons, heating, kitchen, bathrooms, power, showers, fire rules, and other included facilities.
+- Confirm the attendance of all eight named participants and coordinate their routes to the Tokyo bus terminal.
+- Select exact highway-bus departures with enough time for check-in and checkout.
+- Build the shared grocery and equipment list.
+- Add a weather-based rain plan close to departure.
 
-## Working style for new sessions
+## Source links
 
-Start by reading this README and the itinerary. Treat locked decisions as requirements, not suggestions. For any requested change, update the itinerary first, verify live facts and links, then publish the changed Markdown to the same GitHub folder.
+- [Rising Field camping](https://www.rising-field.com/rfk-camp)
+- [Rising Field access](https://www.rising-field.com/rfk-access)
+- [Rising Field facilities and prices](https://www.rising-field.com/rfk-facility-schedule)
+- [Kusakaru 2026 timetable and fares](https://www.kkkg.co.jp/bus/timetable/kusakaru_sen_sim.pdf?v=202604)
+- [Highwaybus.com Tokyo/Shibuya–Karuizawa](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
+- [JNTO Muslim traveler guidance](https://faq.japan-travel.jnto.go.jp/en/guide/muslim-travelers/)
