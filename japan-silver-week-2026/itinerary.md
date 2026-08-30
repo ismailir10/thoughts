@@ -99,7 +99,7 @@ Each day has one core time plan with a sunny option and a rain option. Times mar
 | 13:00–14:00 | Lunch, luggage drop if permitted, and check the two-site layout. | Lunch and luggage organization inside the permitted lodge/common area. |
 | 14:00–15:00 | Orientation around the campus, facilities, bathrooms, water, charging, waste, and emergency contacts. | Indoor facility orientation and lodge rules review. |
 | 15:00–17:30 | Check in at the lodge’s confirmed time, settle rooms, take a short established-path walk, and rest. | Check in, dry gear, rest, and use only confirmed indoor facilities. |
-| 17:30–21:00 | Cook dinner, prayer, group introductions, games, and quiet conversation. Stargazing only if weather and quiet hours allow. | Shared cooking, prayer, games, and quiet indoor gathering; no campfire. |
+| 17:30–21:00 | Cook dinner, prayer, games, and quiet conversation. Stargazing only if weather and quiet hours allow. | Shared cooking, prayer, games, and quiet indoor gathering; no campfire. |
 
 The highway-bus route and fare must be confirmed on the [official Tokyo/Shibuya–Karuizawa booking page](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113). The local-bus reference timetable lists Rising Field services from Karuizawa Station through the day. [Current Kusakaru timetable](https://www.kkkg.co.jp/bus/timetable/en-timetable.pdf?v=202604)
 
