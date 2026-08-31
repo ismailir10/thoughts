@@ -56,6 +56,8 @@ The ¥132,000 figure is provisional. Confirm that it covers both sites before pa
 
 ![Ridge Garage Lodge exterior](https://static.wixstatic.com/media/019307_ea63c25d1955419d89cfa98bb0d475cd~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2840%29.png)
 
+![Ridge Garage Lodge interior](https://static.wixstatic.com/media/019307_636b078db7ce42aa874478bae6212ead~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2841%29.png)
+
 *Stay visuals: user-supplied Ridge Garage Lodge images. Confirm which image matches the reserved unit and which facilities are included.*
 
 ## Group and site setup
@@ -65,14 +67,14 @@ The ¥132,000 figure is provisional. Confirm that it covers both sites before pa
 | Ismail | Man | Kawaguchi, Saitama |
 | Bayu | Man | Itabashi, Tokyo |
 | Azis | Man | Kawaguchi, Saitama |
-| Dhanang/Darto | Man | Chiba |
+| Haidar | Man | Tokyo |
 | Mila | Woman | Yokohama |
 | Ghisa | Woman | Yokohama |
 | Elis | Woman | Yokohama |
 | Fany | Woman | Tokyo |
 
 - **Site 1:** four men. **Site 2:** four women. Confirm privacy and sleeping arrangements with the lodge.
-- Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Fany, and Dhanang/Darto join the agreed Tokyo departure from their own areas.
+- Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Fany, and Haidar join the agreed Tokyo departure from their own areas.
 - Meet at [Shibuya Mark City](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal) at least 30 minutes before the booked departure. Confirm attendance before booking all eight bus seats.
 
 ## Timed itinerary
@@ -184,6 +186,18 @@ Shared items to assign before departure:
 
 - [ ] First-aid kit, insect repellent, sunscreen, and spare batteries.
 - [ ] Cooking and grocery supplies only after the lodge confirms what is provided.
+
+## Rentals to consider
+
+Because this is a lodge stay, do not rent tents, sleeping bags, mats, or campsite furniture unless the reservation confirms they are not provided. The useful options from the [Rising Field rental inventory](https://rsv.rising-field.net/inventories/rentals) are:
+
+- **Forest Lantern LED2.0 — ¥1,200:** one shared light for the two-site common area; personal flashlights remain required.
+- **Coleman cooking tool set — ¥800:** rent only if the lodge kitchen does not provide suitable utensils.
+- **66L cooler — ¥1,000:** useful for groceries if the lodge has no reliable refrigerator or cold storage.
+- **Screen Canopy Joint Tarp III — ¥3,000:** optional rain cover for outdoor cooking or facility time; skip it if the lodge/common area is already covered.
+- **3-tatami hot carpet — ¥1,500** or **hot-water bottle — ¥500:** optional cold-weather backup if lodge heating and bedding are not sufficient.
+
+Check availability for 21–23 September and confirm what the lodge already includes before paying for any rental.
 
 ## Final decisions and preparation
 
