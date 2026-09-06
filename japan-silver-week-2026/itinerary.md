@@ -2,65 +2,74 @@
 
 ![Seruput Entertainment goes to Karuizawa event poster](karuizawa-event-poster.png)
 
-*21–23 September 2026 · Karuizawa · Ridge Garage Lodge · 2 sites*
+*21–23 September 2026 · Karuizawa and Rising Field · 8 people*
 
-> **Quick summary:** Eight Indonesian participants will stay two nights at Ridge Garage Lodge, with the trip centered on Rising Field, its facilities, and nearby nature. We will use a highway bus Tokyo ↔ Karuizawa and a local bus to and from the Rising Field area. **Estimated total for eight: ¥240,160–¥268,160 (¥30,020–¥33,520 per person).**
+> **Quick summary:** Choose either Shinkansen via Ōmiya or highway bus via Shibuya before booking. Both options include two nights at Rising Field, Monday BBQ, Tuesday at Onioshidashi, and board games both nights. **Estimated total for eight:** ¥261,000–¥286,600 by highway bus or ¥294,360–¥332,360 by Shinkansen.
 
-## Please review
+## Trip essentials
 
-Please comment on these points before booking:
-
-Can you attend all three days, 21–23 September 2026? no one says no anyway, ignore this.
-
-## Fixed plan
-
-| Item | Plan |
+| Item | Confirmed plan |
 |---|---|
 | Dates | Monday 21–Wednesday 23 September 2026 |
-| Stay | Ridge Garage Lodge · 2 sites · 2 nights |
 | Group | 8 Indonesian participants · 4 men / 4 women |
-| Route | Tokyo → Karuizawa → Rising Field / Ridge Garage Lodge → Karuizawa → Tokyo |
-| Transport | Highway bus Tokyo ↔ Karuizawa; local bus Karuizawa Station ↔ Rising Field |
-| Focus | Rising Field facilities, nearby nature, shared meals, and group time |
-| Food | Muslim-friendly planning; verify ingredients and avoid alcohol venues |
+| Main transport | Choose Shinkansen via Ōmiya or highway bus via Shibuya; use public local buses around Karuizawa |
+| Monday night | Garage Lodge for 4 + Ridge Lodge Wide for 4 |
+| Tuesday night | Ridge Lodge · 2 sites for all 8 |
+| Check-in / checkout | 13:00 / 11:00; bus arrivals may make Monday check-in about 13:35 |
+| Main activity | Onioshidashi on Tuesday; Shiraito Waterfall only if weather and connections permit |
+| Food | Monday BBQ; Tuesday ready meals; verify ingredients rather than assuming halal certification |
+| Wednesday return | 17:20 Shinkansen or 16:30 highway bus, depending on the chosen option |
 
-## Destination map links
+Schedules, fares, admission, availability, and facility details are **estimates until the final pre-trip check**.
 
-These are the destination pins used in the schedule. The Ridge Garage Lodge reservation is treated as being inside the Rising Field campus; confirm the exact lodge plot from the booking.
+## Choose one transport option
+
+Neither option is the default. Choose as a group before booking.
+
+| | Option A — Shinkansen | Option B — Highway bus |
+|---|---|---|
+| Monday departure | Meet at [Ōmiya Station](https://www.google.com/maps/place/%C5%8Cmiya+Station/@35.9064485,139.6238548,17z/data=!3m1!4b1!4m6!3m5!1s0x6018c143cc2c5285:0x280f665a32e5d413!8m2!3d35.9064485!4d139.6238548!16zL20vMDVtMmIy); target 09:06 departure and 09:43 arrival | Meet at [Shibuya Mark City](https://www.google.com/maps/place/Shibuya+Mark+City/@35.6584251,139.6988175,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b57d2a9830d:0x55df9ddd5cced99f!8m2!3d35.6584251!4d139.6988175!16s%2Fg%2F11c30tnkd7) around 08:50; target 09:20 departure and 12:35 arrival |
+| Monday food | Lunch near Karuizawa Station or at the outlet, then groceries at DELiCiA | Bring lunch; buy BBQ groceries and emergency Tuesday meals in Tokyo beforehand |
+| Monday check-in | Target the estimated 12:40 local bus and 13:00 check-in | Plan around the estimated 13:20 local bus and approximately 13:35 check-in; holiday traffic may delay arrival |
+| Wednesday return | Visit the outlet, then target 17:20 Karuizawa → 18:00 Ōmiya | Make a shorter outlet visit, then target 16:30 Karuizawa → Shibuya |
+| Estimated intercity fare for 8 | ¥84,160–¥90,560 return, excluding home–Ōmiya travel | ¥52,800 return, excluding local Tokyo travel |
+
+The current date-specific highway-bus timetable shows **no 17:30 departure from Karuizawa on 23 September**. If the 16:30 bus is unavailable or missed, use an available Shinkansen instead. Recheck and reserve the chosen services before departure.
+
+## Direct map links
 
 | Destination | Google Maps |
 |---|---|
-| Shibuya Mark City highway-bus terminal | [Open map](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal) |
-| Karuizawa Station | [Open map](https://maps.app.goo.gl/qYpCkzKeKFZDJB5J9) |
-| Rising Field Karuizawa | [Open map](https://www.google.com/maps?q=Rising+Field+Karuizawa,+2129+Nagakurayama+National+Forest,+Karuizawa,+Nagano) |
-| Ridge Garage Lodge / Rising Field campus | [Open campus map](https://www.google.com/maps?q=Rising+Field+Karuizawa,+2129+Nagakurayama+National+Forest,+Karuizawa,+Nagano) |
-| Kose Onsen bus stop | [Open map](https://www.google.com/maps?q=Kose+Onsen,+Karuizawa,+Nagano) |
-| Ryugaeshi Falls | [Open map](https://maps.app.goo.gl/A2VKvaoHRbUvRbEP8) |
-| Shiraito Waterfall | [Open map](https://maps.app.goo.gl/MkpkNZkBbcNieEQ56) |
+| Ōmiya Station | [Open pin](https://www.google.com/maps/place/%C5%8Cmiya+Station/@35.9064485,139.6238548,17z/data=!3m1!4b1!4m6!3m5!1s0x6018c143cc2c5285:0x280f665a32e5d413!8m2!3d35.9064485!4d139.6238548!16zL20vMDVtMmIy) |
+| Shibuya Mark City highway-bus stop | [Open pin](https://www.google.com/maps/place/Shibuya+Mark+City/@35.6584251,139.6988175,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b57d2a9830d:0x55df9ddd5cced99f!8m2!3d35.6584251!4d139.6988175!16s%2Fg%2F11c30tnkd7) |
+| Karuizawa Station | [Open pin](https://maps.app.goo.gl/qYpCkzKeKFZDJB5J9) |
+| Karuizawa Prince Shopping Plaza | [Open pin](https://www.google.com/maps/place/Karuizawa+Prince+Shopping+Plaza/@36.341035,138.6330575,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd37ba8d166b3:0xe8cbe5ae3d9b5e72!8m2!3d36.341035!4d138.6330575!16s%2Fg%2F122zvwrf) |
+| DELiCiA Karuizawa supermarket | [Open pin](https://www.google.com/maps/place/DELiCiA+Karuizawa+Store/@36.344204,138.6250674,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd376695d8de7:0x121a7be51b698419!8m2!3d36.344204!4d138.6250674!16s%2Fg%2F1th28h21) |
+| Rising Field Karuizawa | [Open pin](https://www.google.com/maps/place/%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E8%BB%BD%E4%BA%95%E6%B2%A2/data=!4m7!3m6!1s0x601dd3863bf07f4f:0x76798eed18f2aeda!8m2!3d36.3855342!4d138.6178067!16s%2Fg%2F11b6hygv23) |
+| Mine no Chaya bus stop | [Open pin](https://www.google.com/maps/place/Minenochaya/data=!4m7!3m6!1s0x601dd03abfa3e06d:0xe1f0a97a3911dc6e!8m2!3d36.4047739!4d138.5699987!16s%2Fg%2F11df04c0m5) |
+| Onioshidashi Volcanic Park | [Open pin](https://www.google.com/maps/place/Onioshidashi+Volcanic+Park/@36.4448257,138.534495,17z/data=!3m1!4b1!4m6!3m5!1s0x601dc51805b07643:0xe15968365061d63b!8m2!3d36.4448257!4d138.5370699!16s%2Fg%2F1224bt2j) |
+| Shiraito Waterfall | [Open pin](https://maps.app.goo.gl/VJnXdpm1ECxW5C438) |
 
-Rising Field’s official access page gives the campus address and confirms the public-bus connection from Karuizawa Station. [Official access page](https://www.rising-field.com/rfk-access)
+## Confirmed accommodation
 
-## Reservation and stay
+| Stay | Booking | People | Confirmed amount |
+|---|---|---:|---:|
+| 21–22 Sep | Garage Lodge · 1 site | 4 | ¥35,200 |
+| 21–22 Sep | Ridge Lodge Wide · 1 site | 4 | ¥40,700 |
+| 22–23 Sep | Ridge Lodge · 2 sites | 8 | ¥59,400 |
+| **Total** | **Three bookings** | **8** | **¥135,300** |
 
-| Item | Supplied details |
-|---|---|
-| Accommodation | Ridge Garage Lodge |
-| Sites | 2 |
-| Check-in / checkout | 21 September / 23 September 2026 |
-| Capacity | 8 per site; 16 total stated capacity |
-| Pet policy | Pets allowed, subject to lodge conditions |
-| Quoted fee | ¥66,000 on 21 September + ¥66,000 on 22 September |
-| Working total | **¥132,000** for both nights |
+Suggested rooming is the four men in Garage Lodge and the four women in Ridge Lodge Wide on Monday, followed by one Ridge Lodge site per group on Tuesday.
 
-The ¥132,000 figure is provisional. Confirm that it covers both sites before payment, plus the actual beds or futons, heating, bathrooms, kitchen, showers, power, cooking rules, fire rules, quiet hours, and rubbish process.
+![Garage Lodge with its open garage and dirt-floor camping area](https://static.wixstatic.com/media/019307_d55377a6dddf471494792aecf5af0e0c~mv2.png/v1/fill/w_800,h_568,al_c,q_90,enc_avif,quality_auto/Mask%20group%20%2868%29.png)
 
-![Ridge Garage Lodge exterior](https://static.wixstatic.com/media/019307_ea63c25d1955419d89cfa98bb0d475cd~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2840%29.png)
+*Garage Lodge, booked for 21–22 September. [Official Rising Field accommodation page](https://www.rising-field.com/rfk-camp/).*
 
-![Ridge Garage Lodge interior](https://static.wixstatic.com/media/019307_636b078db7ce42aa874478bae6212ead~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2841%29.png)
+![Ridge Lodge Wide interior with wooden floor and camp beds](https://static.wixstatic.com/media/019307_51dc2b79904d4a09b289ad2b51683c7b~mv2.png/v1/fill/w_800,h_568,al_c,q_90,enc_avif,quality_auto/Mask%20group%20%2837%29.png)
 
-*Stay visuals: user-supplied Ridge Garage Lodge images. Confirm which image matches the reserved unit and which facilities are included.*
+*Ridge Lodge Wide, booked for 21–22 September. [Official Rising Field accommodation page](https://www.rising-field.com/rfk-camp/).*
 
-## Group and site setup
+## Group
 
 | Participant | Group | Starting area |
 |---|---|---|
@@ -73,148 +82,110 @@ The ¥132,000 figure is provisional. Confirm that it covers both sites before pa
 | Elis | Woman | Yokohama |
 | Fany | Woman | Tokyo |
 
-- **Site 1:** four men. **Site 2:** four women. Confirm privacy and sleeping arrangements with the lodge.
-- Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Fany, and Haidar join the agreed Tokyo departure from their own areas.
-- Meet at [Shibuya Mark City](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal) at least 30 minutes before the booked departure. Confirm attendance before booking all eight bus seats.
+Use the meeting point for the selected transport option. Ismail and Azis can coordinate from Kawaguchi; Mila, Ghisa, and Elis from Yokohama. Bayu, Fany, and Haidar join from their own areas.
 
-## Timed itinerary
+## Confirmed by Rising Field
 
-Each day has one core time plan with a sunny option and a rain option. Times marked “target” must be replaced with the booked departure or the lodge’s confirmed check-in/check-out time.
+- Spring water at the campground is disinfected and safe for drinking and cooking. Bottled water is also sold at the camp store.
+- Refrigerators and storage shelves are available near the Ridge/Garage Lodge area.
+- Personal tents, sleeping bags, and general BBQ equipment are not included automatically. Reserve holiday-week rentals in advance.
+- Garage Lodge has a dirt floor. Plan for four cots and four sleeping bags unless the pending reply recommends another setup.
+- Ridge Lodge has cots/beds, but sleeping bags are not included. Linens and the exact Ridge Lodge Wide bedding setup still need confirmation.
+- A Weber charcoal grill is estimated at ¥3,300 per night. Reserve one for Monday and confirm it is sufficient for eight people. Each regular Ridge Lodge site can request a small tabletop grill without charge at check-in.
+- Rising Field does not sell individual BBQ ingredients. Its ¥8,800 ingredient set is for at least two people and must be ordered one week in advance.
+- Reservation confirmations say payment at check-in can be made by cash or credit card; the latest email asks Rising Field to reconfirm card payment.
 
-### Monday 21 September · Tokyo → Ridge Garage Lodge
+For Monday groceries, check pork, lard, alcohol, mirin, gelatin, and meat or fish stock instead of assuming prepared food is halal. Shinkansen travelers can shop at [DELiCiA](https://www.google.com/maps/place/DELiCiA+Karuizawa+Store/@36.344204,138.6250674,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd376695d8de7:0x121a7be51b698419!8m2!3d36.344204!4d138.6250674!16s%2Fg%2F1th28h21); highway-bus travelers should shop in Tokyo before departure.
 
-![Monday highlight: arriving at Karuizawa Station](https://karuizawa-kankokyokai.jp/wordpress/wp-content/uploads/2023/03/3309748_s.jpg)
+## Itinerary
 
-*Highlight image: Karuizawa Station arrival. [Image source: Karuizawa Tourism Association](https://karuizawa-kankokyokai.jp/course/63848/).*
+### Monday 21 September · Tokyo / Ōmiya → Rising Field
 
-| Time | Sunny plan | Rain plan |
-|---|---|---|
-| 06:40–07:00 | Meet at [Shibuya Mark City](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal), attendance check, and board preparation. | Wait inside the bus terminal; confirm tickets, luggage, and rain gear. |
-| 07:20–09:20 | Take the first suitable booked highway bus to [Karuizawa Station](https://maps.app.goo.gl/qYpCkzKeKFZDJB5J9). Current reference journey is about 3 hours; record the final booked time here. | Same transport plan; keep all luggage covered and allow for traffic. |
-| 10:35–12:35 | Arrive at Karuizawa Station, buy lunch and simple groceries, and use facilities. | Stay inside the station, eat lunch, and avoid adding outdoor stops. |
-| 11:10–12:55 | Take the first practical local bus to [Rising Field](https://www.google.com/maps?q=Rising+Field+Karuizawa,+2129+Nagakurayama+National+Forest,+Karuizawa,+Nagano); use the later connection if the highway bus arrives later. | Take the same local bus connection; do not walk long distances with luggage. |
-| 13:00–14:00 | Lunch, luggage drop if permitted, and check the two-site layout. | Lunch and luggage organization inside the permitted lodge/common area. |
-| 14:00–15:00 | Orientation around the campus, facilities, bathrooms, water, charging, waste, and emergency contacts. | Indoor facility orientation and lodge rules review. |
-| 15:00–17:30 | Check in at the lodge’s confirmed time, settle rooms, take a short established-path walk, and rest. | Check in, dry gear, rest, and use only confirmed indoor facilities. |
-| 17:30–21:00 | Cook dinner, prayer, games, and quiet conversation. Stargazing only if weather and quiet hours allow. | Shared cooking, prayer, games, and quiet indoor gathering; no campfire. |
+![Monday highlight: Karuizawa Station](https://karuizawa-kankokyokai.jp/wordpress/wp-content/uploads/2023/03/3309748_s.jpg)
 
-The highway-bus route and fare must be confirmed on the [official Tokyo/Shibuya–Karuizawa booking page](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113). The local-bus reference timetable lists Rising Field services from Karuizawa Station through the day. [Current Kusakaru timetable](https://www.kkkg.co.jp/bus/timetable/en-timetable.pdf?v=202604)
-
-### Tuesday 22 September · Waterfalls and Rising Field
-
-![Tuesday highlight: Karuizawa waterfall](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg)
-
-*Highlight image: Karuizawa waterfall. [Image source: Le Grand Karuizawa photo gallery](https://www.legrand-karuizawa.jp/photo/img/170613/main_sp_img_001.jpg).*
-
-Ryugaeshi Falls is accessed from Kose Onsen with approximately a 15-minute walk. The local bus timetable also lists Kose Onsen, Shiraito Waterfall, and Rising Field stops. [Access reference](https://en.slow-style.com/spots/ryugaeshi-fall/), [current Kusakaru timetable](https://www.kkkg.co.jp/bus/timetable/en-timetable.pdf?v=202604)
+*Karuizawa Station. [Image source: Karuizawa Tourism Association](https://karuizawa-kankokyokai.jp/course/63848/).*
 
 | Time | Sunny plan | Rain plan |
 |---|---|---|
-| 07:30–08:15 | Breakfast, hydration, weather check, and pack a light day bag. | Breakfast, weather check, and confirm the lodge-first plan. |
-| 08:15–08:45 | Walk to the [Rising Field](https://www.google.com/maps?q=Rising+Field+Karuizawa,+2129+Nagakurayama+National+Forest,+Karuizawa,+Nagano) bus stop; bring water and rain layers. | Indoor warm-up, prayer, and prepare games/cooking materials. |
-| 08:55–09:10 | Local bus to [Kose Onsen](https://www.google.com/maps?q=Kose+Onsen,+Karuizawa,+Nagano); use the next safe service if delayed. | Stay at the lodge; no waterfall transfer in unsafe rain. |
-| 09:10–10:15 | Walk approximately 15 minutes to [Ryugaeshi Falls](https://maps.app.goo.gl/A2VKvaoHRbUvRbEP8), enjoy the forest path, take photos, and return to Kose Onsen. | Facility time: common area, journaling, cards, and group planning. |
-| 10:36–10:45 | Local bus from Kose Onsen to [Shiraito Waterfall](https://maps.app.goo.gl/MkpkNZkBbcNieEQ56). | Indoor group program and warm drinks. |
-| 10:45–11:40 | Visit Shiraito Waterfall; stay on marked paths and keep the group together. | Continue lodge activity; optional short covered movement only if safe. |
-| 11:46–12:00 | Return by local bus to Rising Field, then walk back to the lodge. | Prepare lunch at the lodge. |
-| 12:00–13:30 | Lunch, prayer, hydration, and rest. | Lunch, prayer, hydration, and rest. |
-| 13:30–15:30 | Use lodge/common/outdoor facilities for photos, light games, and a shared reflection. | Lodge-first: shared cooking prep, board/card games, sketching, journaling, and rest. |
-| 15:30–17:00 | Optional 8–12 km run or short campus activity; non-runners use the facilities. | Indoor facility time and flexible personal rest. |
-| 17:00–21:00 | Cook dinner, clean both sites, prayer, non-alcoholic drinks, games, and conversation. Campfire only with lodge permission. | Cook dinner, clean both sites, prayer, games, and quiet indoor gathering. |
+| 08:50–09:06 | Meet at Ōmiya for the 09:06 Shinkansen **or** at Shibuya around 08:50 for the 09:20 highway bus. | Meet inside the selected station or terminal and keep luggage covered. |
+| 09:43–13:35 | **Shinkansen:** arrive 09:43, lunch near the station/outlet, shop at DELiCiA, then target the 12:40 local bus. **Highway bus:** arrive about 12:35, eat the lunch brought from Tokyo, then plan around the 13:20 local bus. | Follow the selected route but skip nonessential outdoor time. |
+| 13:00 / about 13:35 | Check in to Garage Lodge and Ridge Lodge Wide; confirm Tuesday luggage transfer and Tuesday dinner availability. Contact Rising Field if the highway bus is materially delayed. | Check in, organize wet gear, and stay under cover. |
+| Evening | Use the reserved Weber for BBQ dinner, then play poker or compact board games. | Ask staff whether covered grilling is safe; otherwise use backup ready food, then play games indoors. |
 
-### Wednesday 23 September · Light morning → Tokyo
+### Tuesday 22 September · Onioshidashi
 
-![Wednesday highlight: relaxed final morning at Rising Field](https://static.wixstatic.com/media/019307_636b078db7ce42aa874478bae6212ead~mv2.png/v1/fill/w_408,h_288,al_c,lg_1,q_85,enc_avif,quality_auto/Mask%20group%20%2841%29.png)
+![Tuesday highlight: Onioshidashi lava landscape and Mount Asama](https://www.princehotels.co.jp/amuse/onioshidashi/imgs/index_thum04_b.jpg)
 
-*Highlight image: a relaxed final morning at the lodge. Image supplied for Ridge Garage Lodge; confirm the exact reserved-unit view.*
-
-The Wednesday plan deliberately leaves in the afternoon. The working return target is the **16:30 highway bus** from Karuizawa Station, expected to reach Shibuya around **19:35**; the **17:30 service** is the latest planned backup, expected around **20:35**. Do not use the 18:30 service as the normal plan because traffic could push arrival beyond the group’s limit.
+*Onioshidashi Volcanic Park and Mount Asama. [Official image and visitor information](https://www.princehotels.co.jp/amuse/onioshidashi/).*
 
 | Time | Sunny plan | Rain plan |
 |---|---|---|
-| 07:30–08:15 | Breakfast and final weather check. | Breakfast and confirm the early indoor plan. |
-| 08:15–10:00 | Light campus walk, photos, and one final use of the outdoor facilities. | Lodge facilities, tea, games, journaling, or quiet rest. |
-| 10:00–11:30 | Pack, separate rubbish, clean both sites, check lost property, and return equipment. | Same checkout tasks indoors; dry and consolidate rain gear. |
-| 11:30–12:30 | Early lunch and final lodge questions. | Early lunch and final lodge questions. |
-| 12:30–13:15 | Confirm checkout at the lodge’s required time and walk to the bus stop. | Confirm checkout and move carefully with covered luggage. |
-| 13:48–14:05 | Target local bus from [Rising Field](https://www.google.com/maps?q=Rising+Field+Karuizawa,+2129+Nagakurayama+National+Forest,+Karuizawa,+Nagano) to [Karuizawa Station](https://maps.app.goo.gl/qYpCkzKeKFZDJB5J9). | Same transfer; leave no later than the target connection. |
-| 14:05–16:00 | Station lunch, toilets, lockers, souvenirs, and a large boarding buffer. | Stay inside the station and keep luggage dry. |
-| 16:00–16:30 | Board the target highway bus from [Karuizawa Station](https://maps.app.goo.gl/qYpCkzKeKFZDJB5J9) to [Shibuya Mark City](https://www.google.com/maps?q=Shibuya+Mark+City+Highway+Bus+Terminal). | Same target bus; no extra sightseeing. |
-| 16:30–19:35 | Target arrival in Shibuya around 19:35, subject to traffic. | Same target arrival; allow for weather-related delay. |
-| 17:30–20:35 | If the 16:30 service is unavailable, use the booked 17:30 backup and aim for Shibuya around 20:35. | Same backup rule; do not add stops. |
+| Before 09:30 | Breakfast, check out, and leave luggage with Rising Field for the move to Ridge Lodge. | Check out, arrange the luggage transfer, and stay around Rising Field. |
+| 09:45–10:39 | Bus via [Mine no Chaya](https://www.google.com/maps/place/Minenochaya/data=!4m7!3m6!1s0x601dd03abfa3e06d:0xe1f0a97a3911dc6e!8m2!3d36.4047739!4d138.5699987!16s%2Fg%2F11df04c0m5) to [Onioshidashi](https://www.google.com/maps/place/Onioshidashi+Volcanic+Park/@36.4448257,138.534495,17z/data=!3m1!4b1!4m6!3m5!1s0x601dc51805b07643:0xe15968365061d63b!8m2!3d36.4448257!4d138.5370699!16s%2Fg%2F1224bt2j). | Cancel Onioshidashi and Shiraito; remain around Rising Field. |
+| 10:39–14:40 | Explore Onioshidashi and eat a packed lunch. Estimated admission: ¥700 per adult. | Eat, rest, and use the covered/common facilities. |
+| 14:40–15:58 | Return by public bus. Add [Shiraito Waterfall](https://maps.app.goo.gl/VJnXdpm1ECxW5C438) only if weather and connections remain safe and on time. | Stay at Rising Field; no waterfall visit. |
+| Evening | Collect luggage, check in to the two Ridge Lodge sites, buy suitable ready meals from the camp shop, then play board games. | Same simple evening indoors. |
 
-Confirm the dated 23 September service and seats using the [official highway-bus booking page](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113). The operator notes that traffic can change arrival times. [Official route details](https://www.highwaybus.com/gp/info/lineDetail?lineGroupNo=75&lineId=300)
+Confirm the camp shop's ready-meal stock and ingredients on Monday. Carry shelf-stable backup meals bought with Monday groceries in case the selection is unsuitable. Recheck the dated holiday bus service before departure.
 
-## Budget for eight people
+### Wednesday 23 September · Karuizawa → Tokyo / Ōmiya
 
-The working model assumes ¥132,000 is the total for both sites and both nights. Recheck accommodation, bus fares, availability, and facility charges before payment.
+![Wednesday highlight: Ridge Lodge exterior](https://static.wixstatic.com/media/019307_ea63c25d1955419d89cfa98bb0d475cd~mv2.png/v1/fill/w_800,h_568,al_c,q_90,enc_avif,quality_auto/Mask%20group%20%2840%29.png)
 
-| Category | Per person | Group total |
+*Ridge Lodge, booked for 22–23 September. [Official Rising Field accommodation page](https://www.rising-field.com/rfk-camp/).*
+
+| Time | Sunny plan | Rain plan |
+|---|---|---|
+| 07:00–07:45 | Optional light jog for 30–45 minutes on safe established paths. | Skip jogging. |
+| By 11:00 | Breakfast, pack, clean both sites, and check out. Jogging must not delay checkout. | Same checkout plan; consolidate wet gear. |
+| 11:00–14:05 | Early lunch, wait around Rising Field, then target the estimated 13:48 local bus to Karuizawa Station. | Stay under cover and take the same bus. |
+| 14:15 onward | Store luggage and visit [Karuizawa Prince Shopping Plaza](https://www.google.com/maps/place/Karuizawa+Prince+Shopping+Plaza/@36.341035,138.6330575,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd37ba8d166b3:0xe8cbe5ae3d9b5e72!8m2!3d36.341035!4d138.6330575!16s%2Fg%2F122zvwrf). Leave by about 16:45 for Shinkansen or 15:45 for highway bus. | Keep the outlet visit short or wait indoors at the station. |
+| 16:30 / 17:20 | **Highway bus:** depart Karuizawa at 16:30. **Shinkansen:** depart at 17:20 and reach Ōmiya about 18:00. | Same selected service; allow extra time for weather. |
+
+There is no current 17:30 highway-bus backup. If the 16:30 bus is unavailable or missed, check the live Shinkansen timetable and take an available train.
+
+## Estimated budget for eight
+
+One Monday Weber grill is included. Discretionary outlet shopping is not included.
+
+| Category | Highway-bus option | Shinkansen option |
 |---|---:|---:|
-| Ridge Garage Lodge | ¥16,500 | ¥132,000 |
-| Highway bus return | ¥6,600 | ¥52,800 |
-| Rising Field local buses | ¥920 | ¥7,360 |
-| Tokyo rail to/from bus terminal | ¥1,000 allowance | ¥8,000 |
-| Food and groceries | ¥4,500–¥6,000 | ¥36,000–¥48,000 |
-| Activities | ¥0–¥1,500 | ¥0–¥12,000 |
-| Locker / contingency | ¥500–¥1,000 | ¥4,000–¥8,000 |
-| **Estimated total** | **¥30,020–¥33,520** | **¥240,160–¥268,160** |
+| Confirmed accommodation | ¥135,300 | ¥135,300 |
+| Intercity return transport | ¥52,800 estimate | ¥84,160–¥90,560 estimate |
+| Local buses, including Tuesday | ¥16,000–¥25,600 estimate | ¥16,000–¥25,600 estimate |
+| Local travel to meeting point | ¥8,000 allowance | ¥10,000–¥16,000 allowance |
+| Food and groceries | ¥36,000–¥48,000 | ¥36,000–¥48,000 |
+| Onioshidashi admission | ¥5,600 estimate | ¥5,600 estimate |
+| One Weber grill | ¥3,300 estimate | ¥3,300 estimate |
+| Contingency | ¥4,000–¥8,000 | ¥4,000–¥8,000 |
+| **Estimated group total** | **¥261,000–¥286,600** | **¥294,360–¥332,360** |
+| **Estimated per person** | **¥32,625–¥35,825** | **¥36,795–¥41,545** |
 
-If fewer than eight people join, the accommodation share increases. Six people would pay approximately **¥35,520–¥39,020 per person** under the same assumptions.
+The optional ¥8,800 Rising Field BBQ ingredient set is not included.
 
-## Food and practical requirements
+## Bring and confirm
 
-Everyone should confirm food requirements before grocery shopping. Japanese food can contain pork stock, lard, mirin, cooking sake, alcohol, gelatin, dashi, or other non-halal ingredients.
+Each person should bring warm layers, rain protection, walking shoes with grip, a water bottle, headlamp, power bank, medication, toiletries, prayer items, and personal dietary essentials. Bring poker cards and a few compact board games; assign one shared first-aid kit.
 
-`ムスリムです。豚肉、ラード、酒、みりんを使わない料理をお願いします。`
+Before departure:
 
-Plan around clearly labelled groceries, vegetables, fruit, tofu, seafood, and halal pantry basics from Tokyo. Confirm lodge cookware, grills, and shared utensils before cooking.
-
-## Packing checklist
-
-Each person should bring:
-
-- [ ] **One flashlight or headlamp with spare batteries** — required for every person; do not rely on a phone flashlight.
-- [ ] Comfortable walking shoes with good grip; waterproof shoes are best for the waterfall and forest paths.
-- [ ] Warm layers for cool mornings and evenings: long-sleeve top, fleece or light jacket, and extra socks.
-- [ ] Rain shell or poncho, compact umbrella, and a waterproof pouch for phone and wallet.
-- [ ] Small daypack, reusable water bottle, towel, tissues, and wet wipes.
-- [ ] Phone, charger or power bank, ID, booking details, personal medication, and toiletries.
-- [ ] Personal prayer items and any dietary snacks or essentials.
-
-Shared items to assign before departure:
-
-- [ ] First-aid kit, insect repellent, sunscreen, and spare batteries.
-- [ ] Cooking and grocery supplies only after the lodge confirms what is provided.
-
-## Rentals to consider
-
-Because this is a lodge stay, do not rent tents, sleeping bags, mats, or campsite furniture unless the reservation confirms they are not provided. The useful options from the [Rising Field rental inventory](https://rsv.rising-field.net/inventories/rentals) are:
-
-- **Forest Lantern LED2.0 — ¥1,200:** one shared light for the two-site common area; personal flashlights remain required.
-- **Coleman cooking tool set — ¥800:** rent only if the lodge kitchen does not provide suitable utensils.
-- **66L cooler — ¥1,000:** useful for groceries if the lodge has no reliable refrigerator or cold storage.
-- **Screen Canopy Joint Tarp III — ¥3,000:** optional rain cover for outdoor cooking or facility time; skip it if the lodge/common area is already covered.
-- **3-tatami hot carpet — ¥1,500** or **hot-water bottle — ¥500:** optional cold-weather backup if lodge heating and bedding are not sufficient.
-
-Check availability for 21–23 September and confirm what the lodge already includes before paying for any rental.
-
-## Final decisions and preparation
-
-1. Confirm attendance for all eight participants.
-2. Confirm that the Ridge Garage Lodge quote covers two sites for both nights, plus the sleeping layout and included facilities.
-3. Confirm cooking, fire, noise, rubbish, pet, and outdoor-activity rules.
-4. Book the exact outbound highway-bus service and all confirmed return seats.
-5. Confirm the local-bus connections for the Day 2 waterfall loop and Wednesday’s 13:48 target.
-6. Assign the shared items in the packing checklist and prepare the grocery list.
-7. Check the weather shortly before departure and use the Rain column when needed.
+- Choose and reserve either Shinkansen or highway bus; recheck all dated services, fares, and local-bus connections.
+- Get Rising Field's reply on cot availability, sleeping-bag temperature rating, linens, cookware, and credit-card payment.
+- Reserve required cots, sleeping bags, the Monday Weber, and any other cooking equipment.
+- Confirm the Weber is sufficient for eight, the camp shop has suitable Tuesday meals, and Tuesday luggage can be held or transferred.
+- Recheck weather, Onioshidashi opening/admission, and the Wednesday return. Do not rely on a 17:30 highway bus.
 
 ## Sources
 
-- [Rising Field camping](https://www.rising-field.com/rfk-camp)
+- [Rising Field accommodation](https://www.rising-field.com/rfk-camp/)
 - [Rising Field access](https://www.rising-field.com/rfk-access)
-- [Rising Field facilities and prices](https://www.rising-field.com/rfk-facility-schedule)
+- [Karuizawa Prince Shopping Plaza](https://www.karuizawa-psp.jp/en)
+- [Onioshidashi official information](https://www.princehotels.co.jp/amuse/onioshidashi/)
 - [Kusakaru 2026 timetable](https://www.kkkg.co.jp/bus/timetable/en-timetable.pdf?v=202604)
-- [Highwaybus.com Tokyo/Shibuya–Karuizawa booking](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
-- [Highway-bus route details](https://www.highwaybus.com/gp/info/lineDetail?lineGroupNo=75&lineId=300)
-- [Ryugaeshi Falls access](https://en.slow-style.com/spots/ryugaeshi-fall/)
+- [Seibu route finder](https://transfer-cloud.navitime.biz/en/seibubus/courses?busstop=00113094)
+- [Highwaybus.com booking](https://www.highwaybus.com/gp/inbound/inbRouteList?arefNameCd=110&rrefNameCd=113)
+- [21 September highway-bus timetable](https://www.highwaybus.com/gp/info/timeTblPrint?day=21&fromTime=0&lineGroupNo=75&lineId=300&month=09&toTime=24&upDownKbn=2&year=2026)
+- [23 September highway-bus timetable](https://www.highwaybus.com/gp/info/timeTblPrint?day=23&fromTime=0&lineGroupNo=75&lineId=300&month=09&toTime=24&upDownKbn=1&year=2026)
+- [Hakutaka 555 timetable: Ōmiya 09:06 → Karuizawa 09:43](https://timetables.jreast.co.jp/en/2609/train/035/038621.html)
+- [Asama 674 timetable: Karuizawa 17:20 → Ōmiya 18:00](https://timetables.jreast.co.jp/en/2609/train/125/128281.html)
+- [JR East Shinkansen e-ticket fare table](https://www.eki-net.com/top/e-ticket/pdf/pr_hokuriku_normal.pdf)
