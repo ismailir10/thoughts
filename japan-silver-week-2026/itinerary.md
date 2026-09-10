@@ -4,7 +4,7 @@
 
 *21–23 September 2026 · Karuizawa and Rising Field · 8 people*
 
-> **Quick summary:** Choose either Shinkansen via Ōmiya or highway bus via Shibuya before booking. Both options include two nights at Rising Field, Monday BBQ, Tuesday at Onioshidashi, and board games both nights. **Estimated total for eight:** ¥261,000–¥286,600 by highway bus or ¥294,360–¥332,360 by Shinkansen.
+> **Quick summary:** Choose either Shinkansen via Ōmiya or highway bus via Shibuya before booking. Both options include two nights at Rising Field, Monday BBQ using two reserved grills, Tuesday at Onioshidashi, and board games both nights. **Estimated total for eight:** ¥310,610–¥336,210 by highway bus or ¥343,970–¥381,970 by Shinkansen.
 
 ## Trip essentials
 
@@ -17,10 +17,10 @@
 | Tuesday night | Ridge Lodge · 2 sites for all 8 |
 | Check-in / checkout | 13:00 / 11:00; bus arrivals may make Monday check-in about 13:35 |
 | Main activity | Onioshidashi on Tuesday; Shiraito Waterfall only if weather and connections permit |
-| Food | Monday BBQ; Tuesday ready meals; verify ingredients rather than assuming halal certification |
+| Food | Monday BBQ; buy Tuesday food and suitable ready meals before departure, refrigerate them near the lodges, and verify ingredients rather than assuming halal certification |
 | Wednesday return | 17:20 Shinkansen or 16:30 highway bus, depending on the chosen option |
 
-Schedules, fares, admission, availability, and facility details are **estimates until the final pre-trip check**.
+Transport schedules and fares, admission prices, weather, actual consumable use, and other variable details are **estimates until the final pre-trip check**. Confirmed accommodation and rental arrangements are not estimates.
 
 ## Choose one transport option
 
@@ -29,7 +29,7 @@ Neither option is the default. Choose as a group before booking.
 | | Option A — Shinkansen | Option B — Highway bus |
 |---|---|---|
 | Monday departure | Meet at [Ōmiya Station](https://www.google.com/maps/place/%C5%8Cmiya+Station/@35.9064485,139.6238548,17z/data=!3m1!4b1!4m6!3m5!1s0x6018c143cc2c5285:0x280f665a32e5d413!8m2!3d35.9064485!4d139.6238548!16zL20vMDVtMmIy); target 09:06 departure and 09:43 arrival | Meet at [Shibuya Mark City](https://www.google.com/maps/place/Shibuya+Mark+City/@35.6584251,139.6988175,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b57d2a9830d:0x55df9ddd5cced99f!8m2!3d35.6584251!4d139.6988175!16s%2Fg%2F11c30tnkd7) around 08:50; target 09:20 departure and 12:35 arrival |
-| Monday food | Lunch near Karuizawa Station or at the outlet, then groceries at DELiCiA | Bring lunch; buy BBQ groceries and emergency Tuesday meals in Tokyo beforehand |
+| Monday food | Lunch near Karuizawa Station or at the outlet, then buy BBQ groceries plus Tuesday food and suitable ready meals at DELiCiA | Bring lunch; buy BBQ groceries plus Tuesday food and suitable ready meals in Tokyo beforehand |
 | Monday check-in | Target the estimated 12:40 local bus and 13:00 check-in | Plan around the estimated 13:20 local bus and approximately 13:35 check-in; holiday traffic may delay arrival |
 | Wednesday return | Visit the outlet, then target 17:20 Karuizawa → 18:00 Ōmiya | Make a shorter outlet visit, then target 16:30 Karuizawa → Shibuya |
 | Estimated intercity fare for 8 | ¥84,160–¥90,560 return, excluding home–Ōmiya travel | ¥52,800 return, excluding local Tokyo travel |
@@ -52,12 +52,12 @@ The current date-specific highway-bus timetable shows **no 17:30 departure from 
 
 ## Confirmed accommodation
 
-| Stay | Booking | People | Confirmed amount |
-|---|---|---:|---:|
-| 21–22 Sep | Garage Lodge · 1 site | 4 | ¥35,200 |
-| 21–22 Sep | Ridge Lodge Wide · 1 site | 4 | ¥40,700 |
-| 22–23 Sep | Ridge Lodge · 2 sites | 8 | ¥59,400 |
-| **Total** | **Three bookings** | **8** | **¥135,300** |
+| Stay | Booking | Reservation | People | Confirmed amount |
+|---|---|---:|---:|---:|
+| 21–22 Sep | Garage Lodge · 1 site | 10089658 | 4 | ¥35,200 |
+| 21–22 Sep | Ridge Lodge Wide · 1 site | 10089657 | 4 | ¥40,700 |
+| 22–23 Sep | Ridge Lodge · 2 sites | 10089656 | 8 | ¥59,400 |
+| **Total** | **Three bookings** |  | **8** | **¥135,300** |
 
 Suggested rooming is the four men in Garage Lodge and the four women in Ridge Lodge Wide on Monday, followed by one Ridge Lodge site per group on Tuesday.
 
@@ -88,12 +88,14 @@ Use the meeting point for the selected transport option. Ismail and Azis can coo
 
 - Spring water at the campground is disinfected and safe for drinking and cooking. Bottled water is also sold at the camp store.
 - Refrigerators and storage shelves are available near the Ridge/Garage Lodge area.
-- Personal tents, sleeping bags, and general BBQ equipment are not included automatically. Reserve holiday-week rentals in advance.
-- Garage Lodge has a dirt floor. Plan for four cots and four sleeping bags unless the pending reply recommends another setup.
-- Ridge Lodge has cots/beds, but sleeping bags are not included. Linens and the exact Ridge Lodge Wide bedding setup still need confirmation.
-- A Weber charcoal grill is estimated at ¥3,300 per night. Reserve one for Monday and confirm it is sufficient for eight people. Each regular Ridge Lodge site can request a small tabletop grill without charge at check-in.
+- Rentals under Garage Lodge reservation **10089658** are confirmed: four cots and two BBQ grills for 21–22 September; eight sleeping bags, two cooking sets, and one cassette stove for 21–23 September.
+- Keep the same sleeping bags and cookware when moving to the two Ridge Lodge sites for the second night. Two cooking sets were reserved because one might not serve eight people; cancel one at pickup if the group decides one is enough.
+- Lighter sleeping bags should be sufficient. If weather becomes significantly colder, rental staff will automatically switch them to winter sleeping bags; anyone still cold should contact the front desk. September nights can fall below 10°C, so bring warm sleeping layers. A two- or three-season bag around 5°C comfort and 0–3°C limit is normally suitable.
+- Garage Lodge has a dirt floor and will use the four reserved cots. Ridge Lodge and Ridge Lodge Wide have beds or cots, but no linens or blankets are provided.
+- Earlier correspondence identified the rentable BBQ grills as Weber charcoal grills; two BBQ grills are reserved, without assuming a more specific model. Each regular Ridge Lodge site can request a small tabletop grill without charge at check-in.
 - Rising Field does not sell individual BBQ ingredients. Its ¥8,800 ingredient set is for at least two people and must be ordered one week in advance.
-- Reservation confirmations say payment at check-in can be made by cash or credit card; the latest email asks Rising Field to reconfirm card payment.
+- The camp store has bottled water, gas canisters, charcoal, and fire starter; plates, cups, and utensils may also be available. Do not rely on it for suitable ready meals.
+- Credit-card payment is accepted.
 
 For Monday groceries, check pork, lard, alcohol, mirin, gelatin, and meat or fish stock instead of assuming prepared food is halal. Shinkansen travelers can shop at [DELiCiA](https://www.google.com/maps/place/DELiCiA+Karuizawa+Store/@36.344204,138.6250674,17z/data=!3m1!4b1!4m6!3m5!1s0x601dd376695d8de7:0x121a7be51b698419!8m2!3d36.344204!4d138.6250674!16s%2Fg%2F1th28h21); highway-bus travelers should shop in Tokyo before departure.
 
@@ -109,8 +111,8 @@ For Monday groceries, check pork, lard, alcohol, mirin, gelatin, and meat or fis
 |---|---|---|
 | 08:50–09:06 | Meet at Ōmiya for the 09:06 Shinkansen **or** at Shibuya around 08:50 for the 09:20 highway bus. | Meet inside the selected station or terminal and keep luggage covered. |
 | 09:43–13:35 | **Shinkansen:** arrive 09:43, lunch near the station/outlet, shop at DELiCiA, then target the 12:40 local bus. **Highway bus:** arrive about 12:35, eat the lunch brought from Tokyo, then plan around the 13:20 local bus. | Follow the selected route but skip nonessential outdoor time. |
-| 13:00 / about 13:35 | Check in to Garage Lodge and Ridge Lodge Wide; confirm Tuesday luggage transfer and Tuesday dinner availability. Contact Rising Field if the highway bus is materially delayed. | Check in, organize wet gear, and stay under cover. |
-| Evening | Use the reserved Weber for BBQ dinner, then play poker or compact board games. | Ask staff whether covered grilling is safe; otherwise use backup ready food, then play games indoors. |
+| 13:00 / about 13:35 | Check in to Garage Lodge and Ridge Lodge Wide; confirm Tuesday luggage transfer. Collect the reserved equipment under Garage Lodge reservation 10089658 and decide whether to keep both cooking sets. Contact Rising Field if the highway bus is materially delayed. | Check in, organize wet gear, collect the reserved equipment, and stay under cover. |
+| Evening | Use the two reserved BBQ grills for dinner, then play poker or compact board games. | Ask staff whether covered grilling is safe; otherwise use backup food and the reserved cooking equipment as permitted, then play games indoors. |
 
 ### Tuesday 22 September · Onioshidashi
 
@@ -120,13 +122,13 @@ For Monday groceries, check pork, lard, alcohol, mirin, gelatin, and meat or fis
 
 | Time | Sunny plan | Rain plan |
 |---|---|---|
-| Before 09:30 | Breakfast, check out, and leave luggage with Rising Field for the move to Ridge Lodge. | Check out, arrange the luggage transfer, and stay around Rising Field. |
+| Before 09:30 | Breakfast, keep the pre-purchased Tuesday food in the guest refrigerators, check out, and leave luggage with Rising Field for the move to Ridge Lodge. | Check out, arrange the luggage transfer, keep food refrigerated, and stay around Rising Field. |
 | 09:45–10:39 | Bus via [Mine no Chaya](https://www.google.com/maps/place/Minenochaya/data=!4m7!3m6!1s0x601dd03abfa3e06d:0xe1f0a97a3911dc6e!8m2!3d36.4047739!4d138.5699987!16s%2Fg%2F11df04c0m5) to [Onioshidashi](https://www.google.com/maps/place/Onioshidashi+Volcanic+Park/@36.4448257,138.534495,17z/data=!3m1!4b1!4m6!3m5!1s0x601dc51805b07643:0xe15968365061d63b!8m2!3d36.4448257!4d138.5370699!16s%2Fg%2F1224bt2j). | Cancel Onioshidashi and Shiraito; remain around Rising Field. |
 | 10:39–14:40 | Explore Onioshidashi and eat a packed lunch. Estimated admission: ¥700 per adult. | Eat, rest, and use the covered/common facilities. |
 | 14:40–15:58 | Return by public bus. Add [Shiraito Waterfall](https://maps.app.goo.gl/VJnXdpm1ECxW5C438) only if weather and connections remain safe and on time. | Stay at Rising Field; no waterfall visit. |
-| Evening | Collect luggage, check in to the two Ridge Lodge sites, buy suitable ready meals from the camp shop, then play board games. | Same simple evening indoors. |
+| Evening | Collect luggage, check in to the two Ridge Lodge sites, then use food and suitable ready meals purchased beforehand. Use the reserved cooking sets and cassette stove for simple meals as needed; play board games afterward. | Prepare the same pre-purchased food indoors or under suitable cover using the reserved equipment as permitted. |
 
-Confirm the camp shop's ready-meal stock and ingredients on Monday. Carry shelf-stable backup meals bought with Monday groceries in case the selection is unsuitable. Recheck the dated holiday bus service before departure.
+Shinkansen travelers should buy Tuesday food and suitable ready meals at DELiCiA; highway-bus travelers should buy them in Tokyo before departure. Store them in the guest refrigerators near the lodges, maintain safe cold storage, and carry shelf-stable backup food. Check pork, lard, alcohol, mirin, gelatin, and meat or fish stock in every prepared item. Recheck the dated holiday bus service before departure.
 
 ### Wednesday 23 September · Karuizawa → Tokyo / Ōmiya
 
@@ -146,7 +148,21 @@ There is no current 17:30 highway-bus backup. If the 16:30 bus is unavailable or
 
 ## Estimated budget for eight
 
-One Monday Weber grill is included. Discretionary outlet shopping is not included.
+Confirmed rental equipment totals **¥49,280**. Estimated camp-store consumables add **¥3,630**, producing the **¥52,910** equipment and consumables estimate below. Discretionary outlet shopping is not included.
+
+| Item | Unit cost | Units | Nights | Total |
+|---|---:|---:|---:|---:|
+| Sleeping bag | ¥1,430 | 8 | 2 | ¥22,880 |
+| Cot | ¥1,100 | 4 | 1 | ¥4,400 |
+| BBQ grill | ¥3,300 | 2 | 1 | ¥6,600 |
+| Cooking set | ¥3,300 | 2 | 2 | ¥13,200 |
+| Cassette stove | ¥1,100 | 1 | 2 | ¥2,200 |
+| Fire starter | ¥1,100 | 1 box | — | ¥1,100 |
+| Charcoal | ¥880 | 2 × 3 kg boxes | — | ¥1,760 |
+| Gas canister | ¥385 | 2 | — | ¥770 |
+| **Estimated total** |  |  |  | **¥52,910** |
+
+The confirmed rental subtotal covers sleeping bags, cots, BBQ grills, cooking sets, and the cassette stove. Consumables are purchased from the camp store: one box of fire starter, two 3 kg boxes of charcoal, and up to two gas canisters. Buy one gas canister initially and another only if needed; two are included in the estimate because actual usage is uncertain.
 
 | Category | Highway-bus option | Shinkansen option |
 |---|---:|---:|
@@ -156,12 +172,12 @@ One Monday Weber grill is included. Discretionary outlet shopping is not include
 | Local travel to meeting point | ¥8,000 allowance | ¥10,000–¥16,000 allowance |
 | Food and groceries | ¥36,000–¥48,000 | ¥36,000–¥48,000 |
 | Onioshidashi admission | ¥5,600 estimate | ¥5,600 estimate |
-| One Weber grill | ¥3,300 estimate | ¥3,300 estimate |
+| Confirmed equipment rentals + estimated consumables | ¥52,910 | ¥52,910 |
 | Contingency | ¥4,000–¥8,000 | ¥4,000–¥8,000 |
-| **Estimated group total** | **¥261,000–¥286,600** | **¥294,360–¥332,360** |
-| **Estimated per person** | **¥32,625–¥35,825** | **¥36,795–¥41,545** |
+| **Estimated group total** | **¥310,610–¥336,210** | **¥343,970–¥381,970** |
+| **Estimated per person** | **approximately ¥38,826–¥42,026** | **approximately ¥42,996–¥47,746** |
 
-The optional ¥8,800 Rising Field BBQ ingredient set is not included.
+Canceling one cooking set for both nights reduces the final amount by **¥6,600**. The final amount may also vary with the actual number of gas canisters and other consumables purchased. The optional ¥8,800 Rising Field BBQ ingredient set is not included.
 
 ## Bring and confirm
 
@@ -170,13 +186,15 @@ Each person should bring warm layers, rain protection, walking shoes with grip, 
 Before departure:
 
 - Choose and reserve either Shinkansen or highway bus; recheck all dated services, fares, and local-bus connections.
-- Get Rising Field's reply on cot availability, sleeping-bag temperature rating, linens, cookware, and credit-card payment.
-- Reserve required cots, sleeping bags, the Monday Weber, and any other cooking equipment.
-- Confirm the Weber is sufficient for eight, the camp shop has suitable Tuesday meals, and Tuesday luggage can be held or transferred.
+- Decide at equipment pickup whether to keep both reserved cooking sets.
+- Buy one gas canister initially, with another available if needed; buy the planned two boxes of charcoal and one box of fire starter.
+- Bring or buy plates, cups, cutlery, and personal warm sleeping layers.
+- Confirm Tuesday luggage can be held or transferred. Do not depend on the camp store for suitable Tuesday meals.
 - Recheck weather, Onioshidashi opening/admission, and the Wednesday return. Do not rely on a 17:30 highway bus.
 
 ## Sources
 
+- Email from Asami Tanimoto, Rising Field, 10 September 2026
 - [Rising Field accommodation](https://www.rising-field.com/rfk-camp/)
 - [Rising Field access](https://www.rising-field.com/rfk-access)
 - [Karuizawa Prince Shopping Plaza](https://www.karuizawa-psp.jp/en)

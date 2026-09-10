@@ -20,11 +20,12 @@ The shareable trip plan is [`itinerary.md`](itinerary.md). It contains the event
   - Shinkansen via Ōmiya, targeting 09:06 outbound and 17:20 return.
   - Highway bus via Shibuya, targeting 09:20 outbound and 16:30 return.
 - The current 23 September timetable does not show a 17:30 bus from Karuizawa. Use an available Shinkansen if the 16:30 bus is unavailable or missed.
-- Monday dinner is BBQ using one reserved Weber; Tuesday dinner is a suitable ready meal from the Rising Field camp shop, with a shelf-stable backup.
+- Monday dinner is BBQ using two reserved grills. Tuesday food and suitable ready meals must be bought beforehand at DELiCiA by Shinkansen travelers or in Tokyo by highway-bus travelers, then stored in the guest refrigerators.
 - Tuesday's main activity is Onioshidashi; Shiraito Waterfall remains optional when weather and connections permit.
 - Both nights include poker or compact board games. Wednesday's light jog is optional and must not delay the 11:00 checkout.
-- Live schedules, fares, admission, rentals, availability, and facility details remain estimates until rechecked.
-- Rising Field's confirmed guidance on safe drinking/cooking water, food purchasing, cold storage, bedding, and BBQ equipment is summarized in the itinerary. A reply is still pending on cot availability, sleeping-bag rating, linens, cookware, and card payment.
+- Confirmed rentals total ¥49,280: eight sleeping bags for two nights, four cots and two BBQ grills for Monday night, plus two cooking sets and one cassette stove for both nights. Estimated consumables add ¥3,630, bringing equipment and consumables to ¥52,910.
+- Live transport schedules and fares, admission prices, weather, actual consumable use, and other variable details remain estimates until rechecked. Confirmed accommodation, rentals, and credit-card acceptance are not estimates.
+- Rising Field's guidance on safe drinking/cooking water, cold storage, bedding, cooking equipment, and camp-store supplies is summarized in the itinerary. Tuesday luggage transfer remains unresolved.
 
 ## Editing workflow
 
