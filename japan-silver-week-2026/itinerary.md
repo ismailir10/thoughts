@@ -207,3 +207,17 @@ Before departure:
 - [Hakutaka 555 timetable: Ōmiya 09:06 → Karuizawa 09:43](https://timetables.jreast.co.jp/en/2609/train/035/038621.html)
 - [Asama 674 timetable: Karuizawa 17:20 → Ōmiya 18:00](https://timetables.jreast.co.jp/en/2609/train/125/128281.html)
 - [JR East Shinkansen e-ticket fare table](https://www.eki-net.com/top/e-ticket/pdf/pr_hokuriku_normal.pdf)
+
+
+
+
+
+tanya
+- trash, sampahnya piye
+
+panitia
+- transport: mila
+- event and games: ghisa + haidar
+- groceries and bbq: elis + fany
+- outdoor activities: bayu + azis
+- stay: ismail
