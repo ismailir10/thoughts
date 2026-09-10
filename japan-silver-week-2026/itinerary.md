@@ -209,18 +209,15 @@ Before departure:
 - [JR East Shinkansen e-ticket fare table](https://www.eki-net.com/top/e-ticket/pdf/pr_hokuriku_normal.pdf)
 
 
-
-
-
 tanya
 - trash, sampahnya piye
 
 panitia
-- transport: mila
-exclude bayu (naik sepeda)
+- transport: mila // by this week 
+exclude bayu (naik sepeda) + ismail
 omiya semua
 
 - event and games: ghisa + haidar
 - groceries and bbq: elis + fany
 - outdoor activities: bayu + azis
-- stay: ismail
+- stay: ismail // udah semua sisa item masak2
