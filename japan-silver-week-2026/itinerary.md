@@ -217,6 +217,9 @@ tanya
 
 panitia
 - transport: mila
+exclude bayu (naik sepeda)
+omiya semua
+
 - event and games: ghisa + haidar
 - groceries and bbq: elis + fany
 - outdoor activities: bayu + azis
